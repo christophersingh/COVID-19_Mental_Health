@@ -1,0 +1,1147 @@
+,phase,indicator,group,state,subgroup,time_period,time_period_label,value,lowci,highci,confidence_interval,quartile_range,age,CASE_RATE,HOSPITALIZED_RATE,DEATH_RATE,date,period,CASE_COUNT,HOSPITALIZED_COUNT,DEATH_COUNT
+0,1,Symptoms of Depressive Disorder,By State,New York,New York,1,Apr 23 - May 5,28.7,24.6,33.1,24.6 - 33.1,24.1 - 28.7,18 - 29 years,,,,,,,,
+1,1,Symptoms of Anxiety Disorder,By State,New York,New York,1,Apr 23 - May 5,36.1,32.1,40.2,32.1 - 40.2,31.7 - 37.0,18 - 29 years,,,,,,,,
+2,1,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,1,Apr 23 - May 5,41.4,36.7,46.1,36.7 - 46.1,36.8 - 41.4,18 - 29 years,,,,,,,,
+3,1,Symptoms of Depressive Disorder,By State,New York,New York,2,May 7 - May 12,29.2,24.2,34.6,24.2 - 34.6,25.7 - 35.5,18 - 29 years,,,,,,,,
+4,1,Symptoms of Anxiety Disorder,By State,New York,New York,2,May 7 - May 12,33,27.7,38.5,27.7 - 38.5,31.6 - 38.3,18 - 29 years,,,,,,,,
+5,1,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,2,May 7 - May 12,36.9,31.6,42.4,31.6 - 42.4,36.1 - 48.4,18 - 29 years,,,,,,,,
+6,1,Symptoms of Depressive Disorder,By State,New York,New York,3,May 14 - May 19,23.8,20,28,20.0 - 28.0,23.3-25.6,18 - 29 years,,,,,,,,
+7,1,Symptoms of Anxiety Disorder,By State,New York,New York,3,May 14 - May 19,26.8,23.1,30.8,23.1 - 30.8,25.3-27.4,18 - 29 years,,,,,,,,
+8,1,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,3,May 14 - May 19,34.9,30.5,39.5,30.5 - 39.5,32.6-34.9,18 - 29 years,,,,,,,,
+9,1,Symptoms of Depressive Disorder,By State,New York,New York,4,May 21 - May 26,23.7,20,27.8,20.0 - 27.8,23.0-25.8,18 - 29 years,,,,,,,,
+10,1,Symptoms of Anxiety Disorder,By State,New York,New York,4,May 21 - May 26,30.6,26.8,34.5,26.8 - 34.5,28.7-30.6,18 - 29 years,,,,,,,,
+11,1,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,4,May 21 - May 26,34.4,30.5,38.5,30.5 - 38.5,33.2-35.5,18 - 29 years,,,,,,,,
+12,1,Symptoms of Depressive Disorder,By State,New York,New York,5,May 28 - June 2,24.5,21.3,27.9,21.3 - 27.9,24.4-26.8,18 - 29 years,,,,,,,,
+13,1,Symptoms of Anxiety Disorder,By State,New York,New York,5,May 28 - June 2,29.8,26.4,33.4,26.4 - 33.4,29.7-31.7,18 - 29 years,,,,,,,,
+14,1,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,5,May 28 - June 2,34.8,31.6,38.2,31.6 - 38.2,34.3-36.9,18 - 29 years,,,,,,,,
+15,1,Symptoms of Depressive Disorder,By State,New York,New York,6,June 4 - June 9,28.5,24,33.2,24.0 - 33.2,27.3-30.3,18 - 29 years,,,,,,,,
+16,1,Symptoms of Anxiety Disorder,By State,New York,New York,6,June 4 - June 9,36.3,30.9,41.9,30.9 - 41.9,32.8-36.3,18 - 29 years,,,,,,,,
+17,1,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,6,June 4 - June 9,38.6,33.2,44.2,33.2 - 44.2,37.7-40.7,18 - 29 years,,,,,,,,
+18,1,Symptoms of Depressive Disorder,By State,New York,New York,7,June 11 - June 16,23.4,19.6,27.5,19.6 - 27.5,21.8-23.9,18 - 29 years,,,,,,,,
+19,1,Symptoms of Anxiety Disorder,By State,New York,New York,7,June 11 - June 16,28.7,24.3,33.3,24.3 - 33.3,27.4-30.5,18 - 29 years,,,,,,,,
+20,1,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,7,June 11 - June 16,32.9,28.1,37.8,28.1 - 37.8,32.3-34.9,18 - 29 years,,,,,,,,
+21,1,Symptoms of Depressive Disorder,By State,New York,New York,8,June 18 - June 23,24.2,20.8,27.9,20.8 - 27.9,22.5-25.0,18 - 29 years,,,,,,,,
+22,1,Symptoms of Anxiety Disorder,By State,New York,New York,8,June 18 - June 23,26.9,23.6,30.5,23.6 - 30.5,21.3-27.7,18 - 29 years,,,,,,,,
+23,1,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,8,June 18 - June 23,32.9,29.4,36.7,29.4 - 36.7,31.8-34.4,18 - 29 years,,,,,,,,
+24,1,Symptoms of Depressive Disorder,By State,New York,New York,9,June 25 - June 30,23.9,20.6,27.4,20.6 - 27.4,23.9-26.0,18 - 29 years,,,,,,,,
+25,1,Symptoms of Anxiety Disorder,By State,New York,New York,9,June 25 - June 30,30.6,27,34.4,27.0 - 34.4,29.5-32.2,18 - 29 years,,,,,,,,
+26,1,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,9,June 25 - June 30,34.3,30.5,38.3,30.5 - 38.3,34.1-35.9,18 - 29 years,,,,,,,,
+27,1,Symptoms of Depressive Disorder,By State,New York,New York,10,July 2 - July 7,28.5,25,32.1,25.0 - 32.1,26.8-29.3,18 - 29 years,,,,,,,,
+28,1,Symptoms of Anxiety Disorder,By State,New York,New York,10,July 2 - July 7,34.7,30.4,39.2,30.4 - 39.2,33.0-35.3,18 - 29 years,,,,,,,,
+29,1,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,10,July 2 - July 7,39.7,35.4,44,35.4 - 44.0,38.1-40.6,18 - 29 years,,,,,,,,
+30,1,Symptoms of Depressive Disorder,By State,New York,New York,11,July 9 - July 14,25,21.1,29.1,21.1 - 29.1,24.1-27.2,18 - 29 years,,,,,,,,
+31,1,Symptoms of Anxiety Disorder,By State,New York,New York,11,July 9 - July 14,34.2,29.2,39.6,29.2 - 39.6,31.1-34.2,18 - 29 years,,,,,,,,
+32,1,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,11,July 9 - July 14,38.3,33.4,43.5,33.4 - 43.5,34.8-38.3,18 - 29 years,,,,,,,,
+33,1,Symptoms of Depressive Disorder,By State,New York,New York,12,July 16 - July 21,29.3,25.1,33.8,25.1 - 33.8,26.0-29.3,18 - 29 years,,,,,,,,
+34,1,Symptoms of Anxiety Disorder,By State,New York,New York,12,July 16 - July 21,36.2,31.6,41.1,31.6 - 41.1,35.6-38.4,18 - 29 years,,,,,,,,
+35,1,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,12,July 16 - July 21,41.1,36,46.4,36.0 - 46.4,40.6-43.5,18 - 29 years,,,,,,,,
+36,2,Symptoms of Depressive Disorder,By State,New York,New York,13,Aug 19 - Aug 31,22.5,19.7,25.4,19.7 - 25.4,21.0-23.8,18 - 29 years,,,,,,,,
+37,2,Symptoms of Anxiety Disorder,By State,New York,New York,13,Aug 19 - Aug 31,29.9,26.9,33.1,26.9 - 33.1,28.5-30.6,18 - 29 years,,,,,,,,
+38,2,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,13,Aug 19 - Aug 31,34.4,31.3,37.6,31.3 - 37.6,33.3-35.6,18 - 29 years,,,,,,,,
+39,2,Symptoms of Depressive Disorder,By State,New York,New York,14,Sep 2 - Sep 14,25.1,21.6,28.8,21.6 - 28.8,23.3-26.5,18 - 29 years,,,,,,,,
+40,2,Symptoms of Anxiety Disorder,By State,New York,New York,14,Sep 2 - Sep 14,33.5,29.7,37.5,29.7 - 37.5,33.5-36.9,18 - 29 years,,,,,,,,
+41,2,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,14,Sep 2 - Sep 14,37.7,33.6,41.9,33.6 - 41.9,35.4-38.1,18 - 29 years,,,,,,,,
+0,1,Symptoms of Depressive Disorder,By State,New York,New York,1,Apr 23 - May 5,28.7,24.6,33.1,24.6 - 33.1,24.1 - 28.7,30 - 39 years,,,,,,,,
+1,1,Symptoms of Anxiety Disorder,By State,New York,New York,1,Apr 23 - May 5,36.1,32.1,40.2,32.1 - 40.2,31.7 - 37.0,30 - 39 years,,,,,,,,
+2,1,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,1,Apr 23 - May 5,41.4,36.7,46.1,36.7 - 46.1,36.8 - 41.4,30 - 39 years,,,,,,,,
+3,1,Symptoms of Depressive Disorder,By State,New York,New York,2,May 7 - May 12,29.2,24.2,34.6,24.2 - 34.6,25.7 - 35.5,30 - 39 years,,,,,,,,
+4,1,Symptoms of Anxiety Disorder,By State,New York,New York,2,May 7 - May 12,33,27.7,38.5,27.7 - 38.5,31.6 - 38.3,30 - 39 years,,,,,,,,
+5,1,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,2,May 7 - May 12,36.9,31.6,42.4,31.6 - 42.4,36.1 - 48.4,30 - 39 years,,,,,,,,
+6,1,Symptoms of Depressive Disorder,By State,New York,New York,3,May 14 - May 19,23.8,20,28,20.0 - 28.0,23.3-25.6,30 - 39 years,,,,,,,,
+7,1,Symptoms of Anxiety Disorder,By State,New York,New York,3,May 14 - May 19,26.8,23.1,30.8,23.1 - 30.8,25.3-27.4,30 - 39 years,,,,,,,,
+8,1,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,3,May 14 - May 19,34.9,30.5,39.5,30.5 - 39.5,32.6-34.9,30 - 39 years,,,,,,,,
+9,1,Symptoms of Depressive Disorder,By State,New York,New York,4,May 21 - May 26,23.7,20,27.8,20.0 - 27.8,23.0-25.8,30 - 39 years,,,,,,,,
+10,1,Symptoms of Anxiety Disorder,By State,New York,New York,4,May 21 - May 26,30.6,26.8,34.5,26.8 - 34.5,28.7-30.6,30 - 39 years,,,,,,,,
+11,1,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,4,May 21 - May 26,34.4,30.5,38.5,30.5 - 38.5,33.2-35.5,30 - 39 years,,,,,,,,
+12,1,Symptoms of Depressive Disorder,By State,New York,New York,5,May 28 - June 2,24.5,21.3,27.9,21.3 - 27.9,24.4-26.8,30 - 39 years,,,,,,,,
+13,1,Symptoms of Anxiety Disorder,By State,New York,New York,5,May 28 - June 2,29.8,26.4,33.4,26.4 - 33.4,29.7-31.7,30 - 39 years,,,,,,,,
+14,1,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,5,May 28 - June 2,34.8,31.6,38.2,31.6 - 38.2,34.3-36.9,30 - 39 years,,,,,,,,
+15,1,Symptoms of Depressive Disorder,By State,New York,New York,6,June 4 - June 9,28.5,24,33.2,24.0 - 33.2,27.3-30.3,30 - 39 years,,,,,,,,
+16,1,Symptoms of Anxiety Disorder,By State,New York,New York,6,June 4 - June 9,36.3,30.9,41.9,30.9 - 41.9,32.8-36.3,30 - 39 years,,,,,,,,
+17,1,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,6,June 4 - June 9,38.6,33.2,44.2,33.2 - 44.2,37.7-40.7,30 - 39 years,,,,,,,,
+18,1,Symptoms of Depressive Disorder,By State,New York,New York,7,June 11 - June 16,23.4,19.6,27.5,19.6 - 27.5,21.8-23.9,30 - 39 years,,,,,,,,
+19,1,Symptoms of Anxiety Disorder,By State,New York,New York,7,June 11 - June 16,28.7,24.3,33.3,24.3 - 33.3,27.4-30.5,30 - 39 years,,,,,,,,
+20,1,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,7,June 11 - June 16,32.9,28.1,37.8,28.1 - 37.8,32.3-34.9,30 - 39 years,,,,,,,,
+21,1,Symptoms of Depressive Disorder,By State,New York,New York,8,June 18 - June 23,24.2,20.8,27.9,20.8 - 27.9,22.5-25.0,30 - 39 years,,,,,,,,
+22,1,Symptoms of Anxiety Disorder,By State,New York,New York,8,June 18 - June 23,26.9,23.6,30.5,23.6 - 30.5,21.3-27.7,30 - 39 years,,,,,,,,
+23,1,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,8,June 18 - June 23,32.9,29.4,36.7,29.4 - 36.7,31.8-34.4,30 - 39 years,,,,,,,,
+24,1,Symptoms of Depressive Disorder,By State,New York,New York,9,June 25 - June 30,23.9,20.6,27.4,20.6 - 27.4,23.9-26.0,30 - 39 years,,,,,,,,
+25,1,Symptoms of Anxiety Disorder,By State,New York,New York,9,June 25 - June 30,30.6,27,34.4,27.0 - 34.4,29.5-32.2,30 - 39 years,,,,,,,,
+26,1,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,9,June 25 - June 30,34.3,30.5,38.3,30.5 - 38.3,34.1-35.9,30 - 39 years,,,,,,,,
+27,1,Symptoms of Depressive Disorder,By State,New York,New York,10,July 2 - July 7,28.5,25,32.1,25.0 - 32.1,26.8-29.3,30 - 39 years,,,,,,,,
+28,1,Symptoms of Anxiety Disorder,By State,New York,New York,10,July 2 - July 7,34.7,30.4,39.2,30.4 - 39.2,33.0-35.3,30 - 39 years,,,,,,,,
+29,1,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,10,July 2 - July 7,39.7,35.4,44,35.4 - 44.0,38.1-40.6,30 - 39 years,,,,,,,,
+30,1,Symptoms of Depressive Disorder,By State,New York,New York,11,July 9 - July 14,25,21.1,29.1,21.1 - 29.1,24.1-27.2,30 - 39 years,,,,,,,,
+31,1,Symptoms of Anxiety Disorder,By State,New York,New York,11,July 9 - July 14,34.2,29.2,39.6,29.2 - 39.6,31.1-34.2,30 - 39 years,,,,,,,,
+32,1,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,11,July 9 - July 14,38.3,33.4,43.5,33.4 - 43.5,34.8-38.3,30 - 39 years,,,,,,,,
+33,1,Symptoms of Depressive Disorder,By State,New York,New York,12,July 16 - July 21,29.3,25.1,33.8,25.1 - 33.8,26.0-29.3,30 - 39 years,,,,,,,,
+34,1,Symptoms of Anxiety Disorder,By State,New York,New York,12,July 16 - July 21,36.2,31.6,41.1,31.6 - 41.1,35.6-38.4,30 - 39 years,,,,,,,,
+35,1,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,12,July 16 - July 21,41.1,36,46.4,36.0 - 46.4,40.6-43.5,30 - 39 years,,,,,,,,
+36,2,Symptoms of Depressive Disorder,By State,New York,New York,13,Aug 19 - Aug 31,22.5,19.7,25.4,19.7 - 25.4,21.0-23.8,30 - 39 years,,,,,,,,
+37,2,Symptoms of Anxiety Disorder,By State,New York,New York,13,Aug 19 - Aug 31,29.9,26.9,33.1,26.9 - 33.1,28.5-30.6,30 - 39 years,,,,,,,,
+38,2,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,13,Aug 19 - Aug 31,34.4,31.3,37.6,31.3 - 37.6,33.3-35.6,30 - 39 years,,,,,,,,
+39,2,Symptoms of Depressive Disorder,By State,New York,New York,14,Sep 2 - Sep 14,25.1,21.6,28.8,21.6 - 28.8,23.3-26.5,30 - 39 years,,,,,,,,
+40,2,Symptoms of Anxiety Disorder,By State,New York,New York,14,Sep 2 - Sep 14,33.5,29.7,37.5,29.7 - 37.5,33.5-36.9,30 - 39 years,,,,,,,,
+41,2,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,14,Sep 2 - Sep 14,37.7,33.6,41.9,33.6 - 41.9,35.4-38.1,30 - 39 years,,,,,,,,
+0,1,Symptoms of Depressive Disorder,By State,New York,New York,1,Apr 23 - May 5,28.7,24.6,33.1,24.6 - 33.1,24.1 - 28.7,40 - 49 years,,,,,,,,
+1,1,Symptoms of Anxiety Disorder,By State,New York,New York,1,Apr 23 - May 5,36.1,32.1,40.2,32.1 - 40.2,31.7 - 37.0,40 - 49 years,,,,,,,,
+2,1,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,1,Apr 23 - May 5,41.4,36.7,46.1,36.7 - 46.1,36.8 - 41.4,40 - 49 years,,,,,,,,
+3,1,Symptoms of Depressive Disorder,By State,New York,New York,2,May 7 - May 12,29.2,24.2,34.6,24.2 - 34.6,25.7 - 35.5,40 - 49 years,,,,,,,,
+4,1,Symptoms of Anxiety Disorder,By State,New York,New York,2,May 7 - May 12,33,27.7,38.5,27.7 - 38.5,31.6 - 38.3,40 - 49 years,,,,,,,,
+5,1,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,2,May 7 - May 12,36.9,31.6,42.4,31.6 - 42.4,36.1 - 48.4,40 - 49 years,,,,,,,,
+6,1,Symptoms of Depressive Disorder,By State,New York,New York,3,May 14 - May 19,23.8,20,28,20.0 - 28.0,23.3-25.6,40 - 49 years,,,,,,,,
+7,1,Symptoms of Anxiety Disorder,By State,New York,New York,3,May 14 - May 19,26.8,23.1,30.8,23.1 - 30.8,25.3-27.4,40 - 49 years,,,,,,,,
+8,1,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,3,May 14 - May 19,34.9,30.5,39.5,30.5 - 39.5,32.6-34.9,40 - 49 years,,,,,,,,
+9,1,Symptoms of Depressive Disorder,By State,New York,New York,4,May 21 - May 26,23.7,20,27.8,20.0 - 27.8,23.0-25.8,40 - 49 years,,,,,,,,
+10,1,Symptoms of Anxiety Disorder,By State,New York,New York,4,May 21 - May 26,30.6,26.8,34.5,26.8 - 34.5,28.7-30.6,40 - 49 years,,,,,,,,
+11,1,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,4,May 21 - May 26,34.4,30.5,38.5,30.5 - 38.5,33.2-35.5,40 - 49 years,,,,,,,,
+12,1,Symptoms of Depressive Disorder,By State,New York,New York,5,May 28 - June 2,24.5,21.3,27.9,21.3 - 27.9,24.4-26.8,40 - 49 years,,,,,,,,
+13,1,Symptoms of Anxiety Disorder,By State,New York,New York,5,May 28 - June 2,29.8,26.4,33.4,26.4 - 33.4,29.7-31.7,40 - 49 years,,,,,,,,
+14,1,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,5,May 28 - June 2,34.8,31.6,38.2,31.6 - 38.2,34.3-36.9,40 - 49 years,,,,,,,,
+15,1,Symptoms of Depressive Disorder,By State,New York,New York,6,June 4 - June 9,28.5,24,33.2,24.0 - 33.2,27.3-30.3,40 - 49 years,,,,,,,,
+16,1,Symptoms of Anxiety Disorder,By State,New York,New York,6,June 4 - June 9,36.3,30.9,41.9,30.9 - 41.9,32.8-36.3,40 - 49 years,,,,,,,,
+17,1,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,6,June 4 - June 9,38.6,33.2,44.2,33.2 - 44.2,37.7-40.7,40 - 49 years,,,,,,,,
+18,1,Symptoms of Depressive Disorder,By State,New York,New York,7,June 11 - June 16,23.4,19.6,27.5,19.6 - 27.5,21.8-23.9,40 - 49 years,,,,,,,,
+19,1,Symptoms of Anxiety Disorder,By State,New York,New York,7,June 11 - June 16,28.7,24.3,33.3,24.3 - 33.3,27.4-30.5,40 - 49 years,,,,,,,,
+20,1,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,7,June 11 - June 16,32.9,28.1,37.8,28.1 - 37.8,32.3-34.9,40 - 49 years,,,,,,,,
+21,1,Symptoms of Depressive Disorder,By State,New York,New York,8,June 18 - June 23,24.2,20.8,27.9,20.8 - 27.9,22.5-25.0,40 - 49 years,,,,,,,,
+22,1,Symptoms of Anxiety Disorder,By State,New York,New York,8,June 18 - June 23,26.9,23.6,30.5,23.6 - 30.5,21.3-27.7,40 - 49 years,,,,,,,,
+23,1,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,8,June 18 - June 23,32.9,29.4,36.7,29.4 - 36.7,31.8-34.4,40 - 49 years,,,,,,,,
+24,1,Symptoms of Depressive Disorder,By State,New York,New York,9,June 25 - June 30,23.9,20.6,27.4,20.6 - 27.4,23.9-26.0,40 - 49 years,,,,,,,,
+25,1,Symptoms of Anxiety Disorder,By State,New York,New York,9,June 25 - June 30,30.6,27,34.4,27.0 - 34.4,29.5-32.2,40 - 49 years,,,,,,,,
+26,1,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,9,June 25 - June 30,34.3,30.5,38.3,30.5 - 38.3,34.1-35.9,40 - 49 years,,,,,,,,
+27,1,Symptoms of Depressive Disorder,By State,New York,New York,10,July 2 - July 7,28.5,25,32.1,25.0 - 32.1,26.8-29.3,40 - 49 years,,,,,,,,
+28,1,Symptoms of Anxiety Disorder,By State,New York,New York,10,July 2 - July 7,34.7,30.4,39.2,30.4 - 39.2,33.0-35.3,40 - 49 years,,,,,,,,
+29,1,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,10,July 2 - July 7,39.7,35.4,44,35.4 - 44.0,38.1-40.6,40 - 49 years,,,,,,,,
+30,1,Symptoms of Depressive Disorder,By State,New York,New York,11,July 9 - July 14,25,21.1,29.1,21.1 - 29.1,24.1-27.2,40 - 49 years,,,,,,,,
+31,1,Symptoms of Anxiety Disorder,By State,New York,New York,11,July 9 - July 14,34.2,29.2,39.6,29.2 - 39.6,31.1-34.2,40 - 49 years,,,,,,,,
+32,1,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,11,July 9 - July 14,38.3,33.4,43.5,33.4 - 43.5,34.8-38.3,40 - 49 years,,,,,,,,
+33,1,Symptoms of Depressive Disorder,By State,New York,New York,12,July 16 - July 21,29.3,25.1,33.8,25.1 - 33.8,26.0-29.3,40 - 49 years,,,,,,,,
+34,1,Symptoms of Anxiety Disorder,By State,New York,New York,12,July 16 - July 21,36.2,31.6,41.1,31.6 - 41.1,35.6-38.4,40 - 49 years,,,,,,,,
+35,1,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,12,July 16 - July 21,41.1,36,46.4,36.0 - 46.4,40.6-43.5,40 - 49 years,,,,,,,,
+36,2,Symptoms of Depressive Disorder,By State,New York,New York,13,Aug 19 - Aug 31,22.5,19.7,25.4,19.7 - 25.4,21.0-23.8,40 - 49 years,,,,,,,,
+37,2,Symptoms of Anxiety Disorder,By State,New York,New York,13,Aug 19 - Aug 31,29.9,26.9,33.1,26.9 - 33.1,28.5-30.6,40 - 49 years,,,,,,,,
+38,2,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,13,Aug 19 - Aug 31,34.4,31.3,37.6,31.3 - 37.6,33.3-35.6,40 - 49 years,,,,,,,,
+39,2,Symptoms of Depressive Disorder,By State,New York,New York,14,Sep 2 - Sep 14,25.1,21.6,28.8,21.6 - 28.8,23.3-26.5,40 - 49 years,,,,,,,,
+40,2,Symptoms of Anxiety Disorder,By State,New York,New York,14,Sep 2 - Sep 14,33.5,29.7,37.5,29.7 - 37.5,33.5-36.9,40 - 49 years,,,,,,,,
+41,2,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,14,Sep 2 - Sep 14,37.7,33.6,41.9,33.6 - 41.9,35.4-38.1,40 - 49 years,,,,,,,,
+0,1,Symptoms of Depressive Disorder,By State,New York,New York,1,Apr 23 - May 5,28.7,24.6,33.1,24.6 - 33.1,24.1 - 28.7,50 - 59 years,,,,,,,,
+1,1,Symptoms of Anxiety Disorder,By State,New York,New York,1,Apr 23 - May 5,36.1,32.1,40.2,32.1 - 40.2,31.7 - 37.0,50 - 59 years,,,,,,,,
+2,1,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,1,Apr 23 - May 5,41.4,36.7,46.1,36.7 - 46.1,36.8 - 41.4,50 - 59 years,,,,,,,,
+3,1,Symptoms of Depressive Disorder,By State,New York,New York,2,May 7 - May 12,29.2,24.2,34.6,24.2 - 34.6,25.7 - 35.5,50 - 59 years,,,,,,,,
+4,1,Symptoms of Anxiety Disorder,By State,New York,New York,2,May 7 - May 12,33,27.7,38.5,27.7 - 38.5,31.6 - 38.3,50 - 59 years,,,,,,,,
+5,1,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,2,May 7 - May 12,36.9,31.6,42.4,31.6 - 42.4,36.1 - 48.4,50 - 59 years,,,,,,,,
+6,1,Symptoms of Depressive Disorder,By State,New York,New York,3,May 14 - May 19,23.8,20,28,20.0 - 28.0,23.3-25.6,50 - 59 years,,,,,,,,
+7,1,Symptoms of Anxiety Disorder,By State,New York,New York,3,May 14 - May 19,26.8,23.1,30.8,23.1 - 30.8,25.3-27.4,50 - 59 years,,,,,,,,
+8,1,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,3,May 14 - May 19,34.9,30.5,39.5,30.5 - 39.5,32.6-34.9,50 - 59 years,,,,,,,,
+9,1,Symptoms of Depressive Disorder,By State,New York,New York,4,May 21 - May 26,23.7,20,27.8,20.0 - 27.8,23.0-25.8,50 - 59 years,,,,,,,,
+10,1,Symptoms of Anxiety Disorder,By State,New York,New York,4,May 21 - May 26,30.6,26.8,34.5,26.8 - 34.5,28.7-30.6,50 - 59 years,,,,,,,,
+11,1,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,4,May 21 - May 26,34.4,30.5,38.5,30.5 - 38.5,33.2-35.5,50 - 59 years,,,,,,,,
+12,1,Symptoms of Depressive Disorder,By State,New York,New York,5,May 28 - June 2,24.5,21.3,27.9,21.3 - 27.9,24.4-26.8,50 - 59 years,,,,,,,,
+13,1,Symptoms of Anxiety Disorder,By State,New York,New York,5,May 28 - June 2,29.8,26.4,33.4,26.4 - 33.4,29.7-31.7,50 - 59 years,,,,,,,,
+14,1,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,5,May 28 - June 2,34.8,31.6,38.2,31.6 - 38.2,34.3-36.9,50 - 59 years,,,,,,,,
+15,1,Symptoms of Depressive Disorder,By State,New York,New York,6,June 4 - June 9,28.5,24,33.2,24.0 - 33.2,27.3-30.3,50 - 59 years,,,,,,,,
+16,1,Symptoms of Anxiety Disorder,By State,New York,New York,6,June 4 - June 9,36.3,30.9,41.9,30.9 - 41.9,32.8-36.3,50 - 59 years,,,,,,,,
+17,1,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,6,June 4 - June 9,38.6,33.2,44.2,33.2 - 44.2,37.7-40.7,50 - 59 years,,,,,,,,
+18,1,Symptoms of Depressive Disorder,By State,New York,New York,7,June 11 - June 16,23.4,19.6,27.5,19.6 - 27.5,21.8-23.9,50 - 59 years,,,,,,,,
+19,1,Symptoms of Anxiety Disorder,By State,New York,New York,7,June 11 - June 16,28.7,24.3,33.3,24.3 - 33.3,27.4-30.5,50 - 59 years,,,,,,,,
+20,1,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,7,June 11 - June 16,32.9,28.1,37.8,28.1 - 37.8,32.3-34.9,50 - 59 years,,,,,,,,
+21,1,Symptoms of Depressive Disorder,By State,New York,New York,8,June 18 - June 23,24.2,20.8,27.9,20.8 - 27.9,22.5-25.0,50 - 59 years,,,,,,,,
+22,1,Symptoms of Anxiety Disorder,By State,New York,New York,8,June 18 - June 23,26.9,23.6,30.5,23.6 - 30.5,21.3-27.7,50 - 59 years,,,,,,,,
+23,1,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,8,June 18 - June 23,32.9,29.4,36.7,29.4 - 36.7,31.8-34.4,50 - 59 years,,,,,,,,
+24,1,Symptoms of Depressive Disorder,By State,New York,New York,9,June 25 - June 30,23.9,20.6,27.4,20.6 - 27.4,23.9-26.0,50 - 59 years,,,,,,,,
+25,1,Symptoms of Anxiety Disorder,By State,New York,New York,9,June 25 - June 30,30.6,27,34.4,27.0 - 34.4,29.5-32.2,50 - 59 years,,,,,,,,
+26,1,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,9,June 25 - June 30,34.3,30.5,38.3,30.5 - 38.3,34.1-35.9,50 - 59 years,,,,,,,,
+27,1,Symptoms of Depressive Disorder,By State,New York,New York,10,July 2 - July 7,28.5,25,32.1,25.0 - 32.1,26.8-29.3,50 - 59 years,,,,,,,,
+28,1,Symptoms of Anxiety Disorder,By State,New York,New York,10,July 2 - July 7,34.7,30.4,39.2,30.4 - 39.2,33.0-35.3,50 - 59 years,,,,,,,,
+29,1,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,10,July 2 - July 7,39.7,35.4,44,35.4 - 44.0,38.1-40.6,50 - 59 years,,,,,,,,
+30,1,Symptoms of Depressive Disorder,By State,New York,New York,11,July 9 - July 14,25,21.1,29.1,21.1 - 29.1,24.1-27.2,50 - 59 years,,,,,,,,
+31,1,Symptoms of Anxiety Disorder,By State,New York,New York,11,July 9 - July 14,34.2,29.2,39.6,29.2 - 39.6,31.1-34.2,50 - 59 years,,,,,,,,
+32,1,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,11,July 9 - July 14,38.3,33.4,43.5,33.4 - 43.5,34.8-38.3,50 - 59 years,,,,,,,,
+33,1,Symptoms of Depressive Disorder,By State,New York,New York,12,July 16 - July 21,29.3,25.1,33.8,25.1 - 33.8,26.0-29.3,50 - 59 years,,,,,,,,
+34,1,Symptoms of Anxiety Disorder,By State,New York,New York,12,July 16 - July 21,36.2,31.6,41.1,31.6 - 41.1,35.6-38.4,50 - 59 years,,,,,,,,
+35,1,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,12,July 16 - July 21,41.1,36,46.4,36.0 - 46.4,40.6-43.5,50 - 59 years,,,,,,,,
+36,2,Symptoms of Depressive Disorder,By State,New York,New York,13,Aug 19 - Aug 31,22.5,19.7,25.4,19.7 - 25.4,21.0-23.8,50 - 59 years,,,,,,,,
+37,2,Symptoms of Anxiety Disorder,By State,New York,New York,13,Aug 19 - Aug 31,29.9,26.9,33.1,26.9 - 33.1,28.5-30.6,50 - 59 years,,,,,,,,
+38,2,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,13,Aug 19 - Aug 31,34.4,31.3,37.6,31.3 - 37.6,33.3-35.6,50 - 59 years,,,,,,,,
+39,2,Symptoms of Depressive Disorder,By State,New York,New York,14,Sep 2 - Sep 14,25.1,21.6,28.8,21.6 - 28.8,23.3-26.5,50 - 59 years,,,,,,,,
+40,2,Symptoms of Anxiety Disorder,By State,New York,New York,14,Sep 2 - Sep 14,33.5,29.7,37.5,29.7 - 37.5,33.5-36.9,50 - 59 years,,,,,,,,
+41,2,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,14,Sep 2 - Sep 14,37.7,33.6,41.9,33.6 - 41.9,35.4-38.1,50 - 59 years,,,,,,,,
+0,1,Symptoms of Depressive Disorder,By State,New York,New York,1,Apr 23 - May 5,28.7,24.6,33.1,24.6 - 33.1,24.1 - 28.7,60 - 69 years,,,,,,,,
+1,1,Symptoms of Anxiety Disorder,By State,New York,New York,1,Apr 23 - May 5,36.1,32.1,40.2,32.1 - 40.2,31.7 - 37.0,60 - 69 years,,,,,,,,
+2,1,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,1,Apr 23 - May 5,41.4,36.7,46.1,36.7 - 46.1,36.8 - 41.4,60 - 69 years,,,,,,,,
+3,1,Symptoms of Depressive Disorder,By State,New York,New York,2,May 7 - May 12,29.2,24.2,34.6,24.2 - 34.6,25.7 - 35.5,60 - 69 years,,,,,,,,
+4,1,Symptoms of Anxiety Disorder,By State,New York,New York,2,May 7 - May 12,33,27.7,38.5,27.7 - 38.5,31.6 - 38.3,60 - 69 years,,,,,,,,
+5,1,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,2,May 7 - May 12,36.9,31.6,42.4,31.6 - 42.4,36.1 - 48.4,60 - 69 years,,,,,,,,
+6,1,Symptoms of Depressive Disorder,By State,New York,New York,3,May 14 - May 19,23.8,20,28,20.0 - 28.0,23.3-25.6,60 - 69 years,,,,,,,,
+7,1,Symptoms of Anxiety Disorder,By State,New York,New York,3,May 14 - May 19,26.8,23.1,30.8,23.1 - 30.8,25.3-27.4,60 - 69 years,,,,,,,,
+8,1,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,3,May 14 - May 19,34.9,30.5,39.5,30.5 - 39.5,32.6-34.9,60 - 69 years,,,,,,,,
+9,1,Symptoms of Depressive Disorder,By State,New York,New York,4,May 21 - May 26,23.7,20,27.8,20.0 - 27.8,23.0-25.8,60 - 69 years,,,,,,,,
+10,1,Symptoms of Anxiety Disorder,By State,New York,New York,4,May 21 - May 26,30.6,26.8,34.5,26.8 - 34.5,28.7-30.6,60 - 69 years,,,,,,,,
+11,1,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,4,May 21 - May 26,34.4,30.5,38.5,30.5 - 38.5,33.2-35.5,60 - 69 years,,,,,,,,
+12,1,Symptoms of Depressive Disorder,By State,New York,New York,5,May 28 - June 2,24.5,21.3,27.9,21.3 - 27.9,24.4-26.8,60 - 69 years,,,,,,,,
+13,1,Symptoms of Anxiety Disorder,By State,New York,New York,5,May 28 - June 2,29.8,26.4,33.4,26.4 - 33.4,29.7-31.7,60 - 69 years,,,,,,,,
+14,1,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,5,May 28 - June 2,34.8,31.6,38.2,31.6 - 38.2,34.3-36.9,60 - 69 years,,,,,,,,
+15,1,Symptoms of Depressive Disorder,By State,New York,New York,6,June 4 - June 9,28.5,24,33.2,24.0 - 33.2,27.3-30.3,60 - 69 years,,,,,,,,
+16,1,Symptoms of Anxiety Disorder,By State,New York,New York,6,June 4 - June 9,36.3,30.9,41.9,30.9 - 41.9,32.8-36.3,60 - 69 years,,,,,,,,
+17,1,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,6,June 4 - June 9,38.6,33.2,44.2,33.2 - 44.2,37.7-40.7,60 - 69 years,,,,,,,,
+18,1,Symptoms of Depressive Disorder,By State,New York,New York,7,June 11 - June 16,23.4,19.6,27.5,19.6 - 27.5,21.8-23.9,60 - 69 years,,,,,,,,
+19,1,Symptoms of Anxiety Disorder,By State,New York,New York,7,June 11 - June 16,28.7,24.3,33.3,24.3 - 33.3,27.4-30.5,60 - 69 years,,,,,,,,
+20,1,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,7,June 11 - June 16,32.9,28.1,37.8,28.1 - 37.8,32.3-34.9,60 - 69 years,,,,,,,,
+21,1,Symptoms of Depressive Disorder,By State,New York,New York,8,June 18 - June 23,24.2,20.8,27.9,20.8 - 27.9,22.5-25.0,60 - 69 years,,,,,,,,
+22,1,Symptoms of Anxiety Disorder,By State,New York,New York,8,June 18 - June 23,26.9,23.6,30.5,23.6 - 30.5,21.3-27.7,60 - 69 years,,,,,,,,
+23,1,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,8,June 18 - June 23,32.9,29.4,36.7,29.4 - 36.7,31.8-34.4,60 - 69 years,,,,,,,,
+24,1,Symptoms of Depressive Disorder,By State,New York,New York,9,June 25 - June 30,23.9,20.6,27.4,20.6 - 27.4,23.9-26.0,60 - 69 years,,,,,,,,
+25,1,Symptoms of Anxiety Disorder,By State,New York,New York,9,June 25 - June 30,30.6,27,34.4,27.0 - 34.4,29.5-32.2,60 - 69 years,,,,,,,,
+26,1,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,9,June 25 - June 30,34.3,30.5,38.3,30.5 - 38.3,34.1-35.9,60 - 69 years,,,,,,,,
+27,1,Symptoms of Depressive Disorder,By State,New York,New York,10,July 2 - July 7,28.5,25,32.1,25.0 - 32.1,26.8-29.3,60 - 69 years,,,,,,,,
+28,1,Symptoms of Anxiety Disorder,By State,New York,New York,10,July 2 - July 7,34.7,30.4,39.2,30.4 - 39.2,33.0-35.3,60 - 69 years,,,,,,,,
+29,1,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,10,July 2 - July 7,39.7,35.4,44,35.4 - 44.0,38.1-40.6,60 - 69 years,,,,,,,,
+30,1,Symptoms of Depressive Disorder,By State,New York,New York,11,July 9 - July 14,25,21.1,29.1,21.1 - 29.1,24.1-27.2,60 - 69 years,,,,,,,,
+31,1,Symptoms of Anxiety Disorder,By State,New York,New York,11,July 9 - July 14,34.2,29.2,39.6,29.2 - 39.6,31.1-34.2,60 - 69 years,,,,,,,,
+32,1,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,11,July 9 - July 14,38.3,33.4,43.5,33.4 - 43.5,34.8-38.3,60 - 69 years,,,,,,,,
+33,1,Symptoms of Depressive Disorder,By State,New York,New York,12,July 16 - July 21,29.3,25.1,33.8,25.1 - 33.8,26.0-29.3,60 - 69 years,,,,,,,,
+34,1,Symptoms of Anxiety Disorder,By State,New York,New York,12,July 16 - July 21,36.2,31.6,41.1,31.6 - 41.1,35.6-38.4,60 - 69 years,,,,,,,,
+35,1,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,12,July 16 - July 21,41.1,36,46.4,36.0 - 46.4,40.6-43.5,60 - 69 years,,,,,,,,
+36,2,Symptoms of Depressive Disorder,By State,New York,New York,13,Aug 19 - Aug 31,22.5,19.7,25.4,19.7 - 25.4,21.0-23.8,60 - 69 years,,,,,,,,
+37,2,Symptoms of Anxiety Disorder,By State,New York,New York,13,Aug 19 - Aug 31,29.9,26.9,33.1,26.9 - 33.1,28.5-30.6,60 - 69 years,,,,,,,,
+38,2,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,13,Aug 19 - Aug 31,34.4,31.3,37.6,31.3 - 37.6,33.3-35.6,60 - 69 years,,,,,,,,
+39,2,Symptoms of Depressive Disorder,By State,New York,New York,14,Sep 2 - Sep 14,25.1,21.6,28.8,21.6 - 28.8,23.3-26.5,60 - 69 years,,,,,,,,
+40,2,Symptoms of Anxiety Disorder,By State,New York,New York,14,Sep 2 - Sep 14,33.5,29.7,37.5,29.7 - 37.5,33.5-36.9,60 - 69 years,,,,,,,,
+41,2,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,14,Sep 2 - Sep 14,37.7,33.6,41.9,33.6 - 41.9,35.4-38.1,60 - 69 years,,,,,,,,
+0,1,Symptoms of Depressive Disorder,By State,New York,New York,1,Apr 23 - May 5,28.7,24.6,33.1,24.6 - 33.1,24.1 - 28.7,70 - 79 years,,,,,,,,
+1,1,Symptoms of Anxiety Disorder,By State,New York,New York,1,Apr 23 - May 5,36.1,32.1,40.2,32.1 - 40.2,31.7 - 37.0,70 - 79 years,,,,,,,,
+2,1,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,1,Apr 23 - May 5,41.4,36.7,46.1,36.7 - 46.1,36.8 - 41.4,70 - 79 years,,,,,,,,
+3,1,Symptoms of Depressive Disorder,By State,New York,New York,2,May 7 - May 12,29.2,24.2,34.6,24.2 - 34.6,25.7 - 35.5,70 - 79 years,,,,,,,,
+4,1,Symptoms of Anxiety Disorder,By State,New York,New York,2,May 7 - May 12,33,27.7,38.5,27.7 - 38.5,31.6 - 38.3,70 - 79 years,,,,,,,,
+5,1,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,2,May 7 - May 12,36.9,31.6,42.4,31.6 - 42.4,36.1 - 48.4,70 - 79 years,,,,,,,,
+6,1,Symptoms of Depressive Disorder,By State,New York,New York,3,May 14 - May 19,23.8,20,28,20.0 - 28.0,23.3-25.6,70 - 79 years,,,,,,,,
+7,1,Symptoms of Anxiety Disorder,By State,New York,New York,3,May 14 - May 19,26.8,23.1,30.8,23.1 - 30.8,25.3-27.4,70 - 79 years,,,,,,,,
+8,1,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,3,May 14 - May 19,34.9,30.5,39.5,30.5 - 39.5,32.6-34.9,70 - 79 years,,,,,,,,
+9,1,Symptoms of Depressive Disorder,By State,New York,New York,4,May 21 - May 26,23.7,20,27.8,20.0 - 27.8,23.0-25.8,70 - 79 years,,,,,,,,
+10,1,Symptoms of Anxiety Disorder,By State,New York,New York,4,May 21 - May 26,30.6,26.8,34.5,26.8 - 34.5,28.7-30.6,70 - 79 years,,,,,,,,
+11,1,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,4,May 21 - May 26,34.4,30.5,38.5,30.5 - 38.5,33.2-35.5,70 - 79 years,,,,,,,,
+12,1,Symptoms of Depressive Disorder,By State,New York,New York,5,May 28 - June 2,24.5,21.3,27.9,21.3 - 27.9,24.4-26.8,70 - 79 years,,,,,,,,
+13,1,Symptoms of Anxiety Disorder,By State,New York,New York,5,May 28 - June 2,29.8,26.4,33.4,26.4 - 33.4,29.7-31.7,70 - 79 years,,,,,,,,
+14,1,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,5,May 28 - June 2,34.8,31.6,38.2,31.6 - 38.2,34.3-36.9,70 - 79 years,,,,,,,,
+15,1,Symptoms of Depressive Disorder,By State,New York,New York,6,June 4 - June 9,28.5,24,33.2,24.0 - 33.2,27.3-30.3,70 - 79 years,,,,,,,,
+16,1,Symptoms of Anxiety Disorder,By State,New York,New York,6,June 4 - June 9,36.3,30.9,41.9,30.9 - 41.9,32.8-36.3,70 - 79 years,,,,,,,,
+17,1,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,6,June 4 - June 9,38.6,33.2,44.2,33.2 - 44.2,37.7-40.7,70 - 79 years,,,,,,,,
+18,1,Symptoms of Depressive Disorder,By State,New York,New York,7,June 11 - June 16,23.4,19.6,27.5,19.6 - 27.5,21.8-23.9,70 - 79 years,,,,,,,,
+19,1,Symptoms of Anxiety Disorder,By State,New York,New York,7,June 11 - June 16,28.7,24.3,33.3,24.3 - 33.3,27.4-30.5,70 - 79 years,,,,,,,,
+20,1,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,7,June 11 - June 16,32.9,28.1,37.8,28.1 - 37.8,32.3-34.9,70 - 79 years,,,,,,,,
+21,1,Symptoms of Depressive Disorder,By State,New York,New York,8,June 18 - June 23,24.2,20.8,27.9,20.8 - 27.9,22.5-25.0,70 - 79 years,,,,,,,,
+22,1,Symptoms of Anxiety Disorder,By State,New York,New York,8,June 18 - June 23,26.9,23.6,30.5,23.6 - 30.5,21.3-27.7,70 - 79 years,,,,,,,,
+23,1,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,8,June 18 - June 23,32.9,29.4,36.7,29.4 - 36.7,31.8-34.4,70 - 79 years,,,,,,,,
+24,1,Symptoms of Depressive Disorder,By State,New York,New York,9,June 25 - June 30,23.9,20.6,27.4,20.6 - 27.4,23.9-26.0,70 - 79 years,,,,,,,,
+25,1,Symptoms of Anxiety Disorder,By State,New York,New York,9,June 25 - June 30,30.6,27,34.4,27.0 - 34.4,29.5-32.2,70 - 79 years,,,,,,,,
+26,1,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,9,June 25 - June 30,34.3,30.5,38.3,30.5 - 38.3,34.1-35.9,70 - 79 years,,,,,,,,
+27,1,Symptoms of Depressive Disorder,By State,New York,New York,10,July 2 - July 7,28.5,25,32.1,25.0 - 32.1,26.8-29.3,70 - 79 years,,,,,,,,
+28,1,Symptoms of Anxiety Disorder,By State,New York,New York,10,July 2 - July 7,34.7,30.4,39.2,30.4 - 39.2,33.0-35.3,70 - 79 years,,,,,,,,
+29,1,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,10,July 2 - July 7,39.7,35.4,44,35.4 - 44.0,38.1-40.6,70 - 79 years,,,,,,,,
+30,1,Symptoms of Depressive Disorder,By State,New York,New York,11,July 9 - July 14,25,21.1,29.1,21.1 - 29.1,24.1-27.2,70 - 79 years,,,,,,,,
+31,1,Symptoms of Anxiety Disorder,By State,New York,New York,11,July 9 - July 14,34.2,29.2,39.6,29.2 - 39.6,31.1-34.2,70 - 79 years,,,,,,,,
+32,1,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,11,July 9 - July 14,38.3,33.4,43.5,33.4 - 43.5,34.8-38.3,70 - 79 years,,,,,,,,
+33,1,Symptoms of Depressive Disorder,By State,New York,New York,12,July 16 - July 21,29.3,25.1,33.8,25.1 - 33.8,26.0-29.3,70 - 79 years,,,,,,,,
+34,1,Symptoms of Anxiety Disorder,By State,New York,New York,12,July 16 - July 21,36.2,31.6,41.1,31.6 - 41.1,35.6-38.4,70 - 79 years,,,,,,,,
+35,1,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,12,July 16 - July 21,41.1,36,46.4,36.0 - 46.4,40.6-43.5,70 - 79 years,,,,,,,,
+36,2,Symptoms of Depressive Disorder,By State,New York,New York,13,Aug 19 - Aug 31,22.5,19.7,25.4,19.7 - 25.4,21.0-23.8,70 - 79 years,,,,,,,,
+37,2,Symptoms of Anxiety Disorder,By State,New York,New York,13,Aug 19 - Aug 31,29.9,26.9,33.1,26.9 - 33.1,28.5-30.6,70 - 79 years,,,,,,,,
+38,2,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,13,Aug 19 - Aug 31,34.4,31.3,37.6,31.3 - 37.6,33.3-35.6,70 - 79 years,,,,,,,,
+39,2,Symptoms of Depressive Disorder,By State,New York,New York,14,Sep 2 - Sep 14,25.1,21.6,28.8,21.6 - 28.8,23.3-26.5,70 - 79 years,,,,,,,,
+40,2,Symptoms of Anxiety Disorder,By State,New York,New York,14,Sep 2 - Sep 14,33.5,29.7,37.5,29.7 - 37.5,33.5-36.9,70 - 79 years,,,,,,,,
+41,2,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,14,Sep 2 - Sep 14,37.7,33.6,41.9,33.6 - 41.9,35.4-38.1,70 - 79 years,,,,,,,,
+0,1,Symptoms of Depressive Disorder,By State,New York,New York,1,Apr 23 - May 5,28.7,24.6,33.1,24.6 - 33.1,24.1 - 28.7,80 years and above,,,,,,,,
+1,1,Symptoms of Anxiety Disorder,By State,New York,New York,1,Apr 23 - May 5,36.1,32.1,40.2,32.1 - 40.2,31.7 - 37.0,80 years and above,,,,,,,,
+2,1,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,1,Apr 23 - May 5,41.4,36.7,46.1,36.7 - 46.1,36.8 - 41.4,80 years and above,,,,,,,,
+3,1,Symptoms of Depressive Disorder,By State,New York,New York,2,May 7 - May 12,29.2,24.2,34.6,24.2 - 34.6,25.7 - 35.5,80 years and above,,,,,,,,
+4,1,Symptoms of Anxiety Disorder,By State,New York,New York,2,May 7 - May 12,33,27.7,38.5,27.7 - 38.5,31.6 - 38.3,80 years and above,,,,,,,,
+5,1,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,2,May 7 - May 12,36.9,31.6,42.4,31.6 - 42.4,36.1 - 48.4,80 years and above,,,,,,,,
+6,1,Symptoms of Depressive Disorder,By State,New York,New York,3,May 14 - May 19,23.8,20,28,20.0 - 28.0,23.3-25.6,80 years and above,,,,,,,,
+7,1,Symptoms of Anxiety Disorder,By State,New York,New York,3,May 14 - May 19,26.8,23.1,30.8,23.1 - 30.8,25.3-27.4,80 years and above,,,,,,,,
+8,1,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,3,May 14 - May 19,34.9,30.5,39.5,30.5 - 39.5,32.6-34.9,80 years and above,,,,,,,,
+9,1,Symptoms of Depressive Disorder,By State,New York,New York,4,May 21 - May 26,23.7,20,27.8,20.0 - 27.8,23.0-25.8,80 years and above,,,,,,,,
+10,1,Symptoms of Anxiety Disorder,By State,New York,New York,4,May 21 - May 26,30.6,26.8,34.5,26.8 - 34.5,28.7-30.6,80 years and above,,,,,,,,
+11,1,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,4,May 21 - May 26,34.4,30.5,38.5,30.5 - 38.5,33.2-35.5,80 years and above,,,,,,,,
+12,1,Symptoms of Depressive Disorder,By State,New York,New York,5,May 28 - June 2,24.5,21.3,27.9,21.3 - 27.9,24.4-26.8,80 years and above,,,,,,,,
+13,1,Symptoms of Anxiety Disorder,By State,New York,New York,5,May 28 - June 2,29.8,26.4,33.4,26.4 - 33.4,29.7-31.7,80 years and above,,,,,,,,
+14,1,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,5,May 28 - June 2,34.8,31.6,38.2,31.6 - 38.2,34.3-36.9,80 years and above,,,,,,,,
+15,1,Symptoms of Depressive Disorder,By State,New York,New York,6,June 4 - June 9,28.5,24,33.2,24.0 - 33.2,27.3-30.3,80 years and above,,,,,,,,
+16,1,Symptoms of Anxiety Disorder,By State,New York,New York,6,June 4 - June 9,36.3,30.9,41.9,30.9 - 41.9,32.8-36.3,80 years and above,,,,,,,,
+17,1,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,6,June 4 - June 9,38.6,33.2,44.2,33.2 - 44.2,37.7-40.7,80 years and above,,,,,,,,
+18,1,Symptoms of Depressive Disorder,By State,New York,New York,7,June 11 - June 16,23.4,19.6,27.5,19.6 - 27.5,21.8-23.9,80 years and above,,,,,,,,
+19,1,Symptoms of Anxiety Disorder,By State,New York,New York,7,June 11 - June 16,28.7,24.3,33.3,24.3 - 33.3,27.4-30.5,80 years and above,,,,,,,,
+20,1,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,7,June 11 - June 16,32.9,28.1,37.8,28.1 - 37.8,32.3-34.9,80 years and above,,,,,,,,
+21,1,Symptoms of Depressive Disorder,By State,New York,New York,8,June 18 - June 23,24.2,20.8,27.9,20.8 - 27.9,22.5-25.0,80 years and above,,,,,,,,
+22,1,Symptoms of Anxiety Disorder,By State,New York,New York,8,June 18 - June 23,26.9,23.6,30.5,23.6 - 30.5,21.3-27.7,80 years and above,,,,,,,,
+23,1,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,8,June 18 - June 23,32.9,29.4,36.7,29.4 - 36.7,31.8-34.4,80 years and above,,,,,,,,
+24,1,Symptoms of Depressive Disorder,By State,New York,New York,9,June 25 - June 30,23.9,20.6,27.4,20.6 - 27.4,23.9-26.0,80 years and above,,,,,,,,
+25,1,Symptoms of Anxiety Disorder,By State,New York,New York,9,June 25 - June 30,30.6,27,34.4,27.0 - 34.4,29.5-32.2,80 years and above,,,,,,,,
+26,1,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,9,June 25 - June 30,34.3,30.5,38.3,30.5 - 38.3,34.1-35.9,80 years and above,,,,,,,,
+27,1,Symptoms of Depressive Disorder,By State,New York,New York,10,July 2 - July 7,28.5,25,32.1,25.0 - 32.1,26.8-29.3,80 years and above,,,,,,,,
+28,1,Symptoms of Anxiety Disorder,By State,New York,New York,10,July 2 - July 7,34.7,30.4,39.2,30.4 - 39.2,33.0-35.3,80 years and above,,,,,,,,
+29,1,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,10,July 2 - July 7,39.7,35.4,44,35.4 - 44.0,38.1-40.6,80 years and above,,,,,,,,
+30,1,Symptoms of Depressive Disorder,By State,New York,New York,11,July 9 - July 14,25,21.1,29.1,21.1 - 29.1,24.1-27.2,80 years and above,,,,,,,,
+31,1,Symptoms of Anxiety Disorder,By State,New York,New York,11,July 9 - July 14,34.2,29.2,39.6,29.2 - 39.6,31.1-34.2,80 years and above,,,,,,,,
+32,1,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,11,July 9 - July 14,38.3,33.4,43.5,33.4 - 43.5,34.8-38.3,80 years and above,,,,,,,,
+33,1,Symptoms of Depressive Disorder,By State,New York,New York,12,July 16 - July 21,29.3,25.1,33.8,25.1 - 33.8,26.0-29.3,80 years and above,,,,,,,,
+34,1,Symptoms of Anxiety Disorder,By State,New York,New York,12,July 16 - July 21,36.2,31.6,41.1,31.6 - 41.1,35.6-38.4,80 years and above,,,,,,,,
+35,1,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,12,July 16 - July 21,41.1,36,46.4,36.0 - 46.4,40.6-43.5,80 years and above,,,,,,,,
+36,2,Symptoms of Depressive Disorder,By State,New York,New York,13,Aug 19 - Aug 31,22.5,19.7,25.4,19.7 - 25.4,21.0-23.8,80 years and above,,,,,,,,
+37,2,Symptoms of Anxiety Disorder,By State,New York,New York,13,Aug 19 - Aug 31,29.9,26.9,33.1,26.9 - 33.1,28.5-30.6,80 years and above,,,,,,,,
+38,2,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,13,Aug 19 - Aug 31,34.4,31.3,37.6,31.3 - 37.6,33.3-35.6,80 years and above,,,,,,,,
+39,2,Symptoms of Depressive Disorder,By State,New York,New York,14,Sep 2 - Sep 14,25.1,21.6,28.8,21.6 - 28.8,23.3-26.5,80 years and above,,,,,,,,
+40,2,Symptoms of Anxiety Disorder,By State,New York,New York,14,Sep 2 - Sep 14,33.5,29.7,37.5,29.7 - 37.5,33.5-36.9,80 years and above,,,,,,,,
+41,2,Symptoms of Anxiety Disorder or Depressive Disorder,By State,New York,New York,14,Sep 2 - Sep 14,37.7,33.6,41.9,33.6 - 41.9,35.4-38.1,80 years and above,,,,,,,,
+0-17 years,,,,,,,,,,,,,,171.46,13.55,0.23,04-23-2020,1,,,
+18-44 years,,,,,,,,,,,,,,1554.45,153.69,12.88,04-23-2020,1,,,
+45-64 years,,,,,,,,,,,,,,2529.03,630.34,113.37,04-23-2020,1,,,
+65-74 years,,,,,,,,,,,,,,2552.64,1192.5,364.17,04-23-2020,1,,,
+75 and older years,,,,,,,,,,,,,,2976.74,1830.07,909.18,04-23-2020,1,,,
+Citywide total,,,,,,,,,,,,,,1687.8,437.24,122.52,04-23-2020,1,,,
+0-17 years,,,,,,,,,,,,,,180.44,13.84,0.29,04-24-2020,1,,,
+18-44 years,,,,,,,,,,,,,,1600.77,159.33,13.44,04-24-2020,1,,,
+45-64 years,,,,,,,,,,,,,,2611.61,650.13,117.6,04-24-2020,1,,,
+65-74 years,,,,,,,,,,,,,,2627.88,1234.27,382.2,04-24-2020,1,,,
+75 and older years,,,,,,,,,,,,,,3058.09,1899.17,949.95,04-24-2020,1,,,
+Citywide total,,,,,,,,,,,,,,1740.01,452.39,127.95,04-24-2020,1,,,
+0-17 years,,,,,,,,,,,,,,189.7,15.17,0.29,04-25-2020,1,,,
+18-44 years,,,,,,,,,,,,,,1648.25,166.31,13.59,04-25-2020,1,,,
+45-64 years,,,,,,,,,,,,,,2694.0,674.79,119.55,04-25-2020,1,,,
+65-74 years,,,,,,,,,,,,,,2702.12,1287.77,390.06,04-25-2020,1,,,
+75 and older years,,,,,,,,,,,,,,3141.28,1979.07,970.79,04-25-2020,1,,,
+Citywide total,,,,,,,,,,,,,,1792.84,471.15,130.51,04-25-2020,1,,,
+0-17 years,,,,,,,,,,,,,,194.62,15.17,0.29,04-26-2020,1,,,
+18-44 years,,,,,,,,,,,,,,1675.94,166.54,14.01,04-26-2020,1,,,
+45-64 years,,,,,,,,,,,,,,2744.49,675.52,124.66,04-26-2020,1,,,
+65-74 years,,,,,,,,,,,,,,2746.03,1290.48,406.66,04-26-2020,1,,,
+75 and older years,,,,,,,,,,,,,,3188.99,1983.27,1019.24,04-26-2020,1,,,
+Citywide total,,,,,,,,,,,,,,1824.13,471.92,136.45,04-26-2020,1,,,
+0-17 years,,,,,,,,,,,,,,201.98,15.63,0.29,04-27-2020,1,,,
+18-44 years,,,,,,,,,,,,,,1705.26,167.58,14.21,04-27-2020,1,,,
+45-64 years,,,,,,,,,,,,,,2799.35,681.7,127.43,04-27-2020,1,,,
+65-74 years,,,,,,,,,,,,,,2795.67,1304.79,412.52,04-27-2020,1,,,
+75 and older years,,,,,,,,,,,,,,3242.38,2009.78,1045.39,04-27-2020,1,,,
+Citywide total,,,,,,,,,,,,,,1858.61,476.86,139.4,04-27-2020,1,,,
+0-17 years,,,,,,,,,,,,,,205.86,15.81,0.29,04-28-2020,1,,,
+18-44 years,,,,,,,,,,,,,,1722.48,169.01,14.3,04-28-2020,1,,,
+45-64 years,,,,,,,,,,,,,,2827.9,688.51,128.84,04-28-2020,1,,,
+65-74 years,,,,,,,,,,,,,,2824.85,1321.67,416.24,04-28-2020,1,,,
+75 and older years,,,,,,,,,,,,,,3274.19,2049.82,1055.26,04-28-2020,1,,,
+Citywide total,,,,,,,,,,,,,,1877.82,483.14,140.74,04-28-2020,1,,,
+0-17 years,,,,,,,,,,,,,,210.26,16.27,0.35,04-29-2020,1,,,
+18-44 years,,,,,,,,,,,,,,1746.93,174.26,14.75,04-29-2020,1,,,
+45-64 years,,,,,,,,,,,,,,2863.6,698.72,133.36,04-29-2020,1,,,
+65-74 years,,,,,,,,,,,,,,2860.18,1345.12,432.97,04-29-2020,1,,,
+75 and older years,,,,,,,,,,,,,,3323.74,2082.54,1099.32,04-29-2020,1,,,
+Citywide total,,,,,,,,,,,,,,1903.44,491.93,146.3,04-29-2020,1,,,
+0-17 years,,,,,,,,,,,,,,214.89,16.33,0.35,04-30-2020,1,,,
+18-44 years,,,,,,,,,,,,,,1771.2,175.6,15.05,04-30-2020,1,,,
+45-64 years,,,,,,,,,,,,,,2904.36,702.66,136.33,04-30-2020,1,,,
+65-74 years,,,,,,,,,,,,,,2899.8,1355.99,443.56,04-30-2020,1,,,
+75 and older years,,,,,,,,,,,,,,3383.34,2106.13,1124.73,04-30-2020,1,,,
+Citywide total,,,,,,,,,,,,,,1931.38,495.88,149.68,04-30-2020,1,,,
+0-17 years,,,,,,,,,,,,,,219.0,16.5,0.35,05-01-2020,1,,,
+18-44 years,,,,,,,,,,,,,,1794.92,177.79,15.76,05-01-2020,1,,,
+45-64 years,,,,,,,,,,,,,,2945.07,711.95,141.44,05-01-2020,1,,,
+65-74 years,,,,,,,,,,,,,,2937.56,1379.74,460.15,05-01-2020,1,,,
+75 and older years,,,,,,,,,,,,,,3440.93,2167.19,1158.37,05-01-2020,1,,,
+Citywide total,,,,,,,,,,,,,,1958.68,505.04,154.78,05-01-2020,1,,,
+0-17 years,,,,,,,,,,,,,,225.66,16.56,0.35,05-02-2020,1,,,
+18-44 years,,,,,,,,,,,,,,1821.42,179.01,15.85,05-02-2020,1,,,
+45-64 years,,,,,,,,,,,,,,2987.48,716.37,142.85,05-02-2020,1,,,
+65-74 years,,,,,,,,,,,,,,2977.04,1388.75,466.3,05-02-2020,1,,,
+75 and older years,,,,,,,,,,,,,,3481.88,2185.84,1173.18,05-02-2020,1,,,
+Citywide total,,,,,,,,,,,,,,1987.0,508.59,156.64,05-02-2020,1,,,
+0-17 years,,,,,,,,,,,,,,232.96,16.62,0.35,05-03-2020,1,,,
+18-44 years,,,,,,,,,,,,,,1843.17,179.66,15.97,05-03-2020,1,,,
+45-64 years,,,,,,,,,,,,,,3022.16,719.2,144.6,05-03-2020,1,,,
+65-74 years,,,,,,,,,,,,,,3007.22,1395.9,471.45,05-03-2020,1,,,
+75 and older years,,,,,,,,,,,,,,3514.05,2197.18,1189.27,05-03-2020,1,,,
+Citywide total,,,,,,,,,,,,,,2010.36,510.9,158.58,05-03-2020,1,,,
+0-17 years,,,,,,,,,,,,,,236.72,16.85,0.35,05-04-2020,1,,,
+18-44 years,,,,,,,,,,,,,,1861.24,180.14,16.17,05-04-2020,1,,,
+45-64 years,,,,,,,,,,,,,,3049.54,720.7,147.27,05-04-2020,1,,,
+65-74 years,,,,,,,,,,,,,,3038.83,1401.62,481.03,05-04-2020,1,,,
+75 and older years,,,,,,,,,,,,,,3556.1,2205.4,1205.36,05-04-2020,1,,,
+Citywide total,,,,,,,,,,,,,,2030.47,512.52,161.17,05-04-2020,1,,,
+0-17 years,,,,,,,,,,,,,,239.56,17.14,0.35,05-05-2020,1,,,
+18-44 years,,,,,,,,,,,,,,1874.03,181.14,16.29,05-05-2020,1,,,
+45-64 years,,,,,,,,,,,,,,3070.06,725.52,149.7,05-05-2020,1,,,
+65-74 years,,,,,,,,,,,,,,3058.57,1411.92,486.76,05-05-2020,1,,,
+75 and older years,,,,,,,,,,,,,,3582.98,2228.8,1222.54,05-05-2020,1,,,
+Citywide total,,,,,,,,,,,,,,2044.63,516.54,163.41,05-05-2020,1,,,
+0-17 years,,,,,,,,,,,,,,242.51,17.55,0.35,05-06-2020,2,,,
+18-44 years,,,,,,,,,,,,,,1891.16,182.36,16.53,05-06-2020,2,,,
+45-64 years,,,,,,,,,,,,,,3096.72,729.9,151.7,05-06-2020,2,,,
+65-74 years,,,,,,,,,,,,,,3088.18,1421.22,494.62,05-06-2020,2,,,
+75 and older years,,,,,,,,,,,,,,3616.07,2245.26,1242.65,05-06-2020,2,,,
+Citywide total,,,,,,,,,,,,,,2063.26,520.03,165.95,05-06-2020,2,,,
+0-17 years,,,,,,,,,,,,,,245.87,17.6,0.35,05-07-2020,2,,,
+18-44 years,,,,,,,,,,,,,,1906.53,182.54,16.8,05-07-2020,2,,,
+45-64 years,,,,,,,,,,,,,,3119.72,731.16,154.18,05-07-2020,2,,,
+65-74 years,,,,,,,,,,,,,,3113.92,1423.94,502.2,05-07-2020,2,,,
+75 and older years,,,,,,,,,,,,,,3651.17,2248.18,1262.76,05-07-2020,2,,,
+Citywide total,,,,,,,,,,,,,,2080.18,520.84,168.62,05-07-2020,2,,,
+0-17 years,,,,,,,,,,,,,,249.58,17.95,0.35,05-08-2020,2,,,
+18-44 years,,,,,,,,,,,,,,1920.27,183.1,17.06,05-08-2020,2,,,
+45-64 years,,,,,,,,,,,,,,3141.71,733.15,156.56,05-08-2020,2,,,
+65-74 years,,,,,,,,,,,,,,3140.96,1428.8,512.22,05-08-2020,2,,,
+75 and older years,,,,,,,,,,,,,,3688.1,2260.8,1280.86,05-08-2020,2,,,
+Citywide total,,,,,,,,,,,,,,2096.57,522.85,171.32,05-08-2020,2,,,
+0-17 years,,,,,,,,,,,,,,254.61,18.07,0.41,05-09-2020,2,,,
+18-44 years,,,,,,,,,,,,,,1934.75,185.71,17.12,05-09-2020,2,,,
+45-64 years,,,,,,,,,,,,,,3165.39,737.63,157.68,05-09-2020,2,,,
+65-74 years,,,,,,,,,,,,,,3163.99,1439.96,515.36,05-09-2020,2,,,
+75 and older years,,,,,,,,,,,,,,3718.09,2275.97,1289.09,05-09-2020,2,,,
+Citywide total,,,,,,,,,,,,,,2113.18,526.94,172.43,05-09-2020,2,,,
+0-17 years,,,,,,,,,,,,,,258.21,18.82,0.46,05-10-2020,2,,,
+18-44 years,,,,,,,,,,,,,,1948.1,189.01,17.3,05-10-2020,2,,,
+45-64 years,,,,,,,,,,,,,,3187.96,746.92,161.28,05-10-2020,2,,,
+65-74 years,,,,,,,,,,,,,,3184.01,1454.83,524.09,05-10-2020,2,,,
+75 and older years,,,,,,,,,,,,,,3748.62,2301.02,1312.67,05-10-2020,2,,,
+Citywide total,,,,,,,,,,,,,,2128.48,533.56,175.66,05-10-2020,2,,,
+0-17 years,,,,,,,,,,,,,,266.66,21.66,0.58,05-11-2020,2,,,
+18-44 years,,,,,,,,,,,,,,1998.02,216.07,17.42,05-11-2020,2,,,
+45-64 years,,,,,,,,,,,,,,3267.0,806.45,162.84,05-11-2020,2,,,
+65-74 years,,,,,,,,,,,,,,3270.69,1564.54,530.38,05-11-2020,2,,,
+75 and older years,,,,,,,,,,,,,,3890.49,2473.06,1329.68,05-11-2020,2,,,
+Citywide total,,,,,,,,,,,,,,2186.78,579.92,177.74,05-11-2020,2,,,
+0-17 years,,,,,,,,,,,,,,268.98,22.06,0.58,05-12-2020,2,,,
+18-44 years,,,,,,,,,,,,,,2004.99,217.77,17.69,05-12-2020,2,,,
+45-64 years,,,,,,,,,,,,,,3276.38,809.51,164.54,05-12-2020,2,,,
+65-74 years,,,,,,,,,,,,,,3280.85,1569.98,536.82,05-12-2020,2,,,
+75 and older years,,,,,,,,,,,,,,3912.24,2485.49,1344.85,05-12-2020,2,,,
+Citywide total,,,,,,,,,,,,,,2194.6,582.69,179.8,05-12-2020,2,,,
+0-17 years,,,,,,,,,,,,,,271.58,22.7,0.52,05-13-2020,3,,,
+18-44 years,,,,,,,,,,,,,,2015.77,220.38,17.84,05-13-2020,3,,,
+45-64 years,,,,,,,,,,,,,,3290.15,815.74,166.0,05-13-2020,3,,,
+65-74 years,,,,,,,,,,,,,,3293.58,1581.28,541.83,05-13-2020,3,,,
+75 and older years,,,,,,,,,,,,,,3932.36,2496.82,1356.37,05-13-2020,3,,,
+Citywide total,,,,,,,,,,,,,,2205.16,587.08,181.37,05-13-2020,3,,,
+0-17 years,,,,,,,,,,,,,,275.69,23.8,0.46,05-14-2020,3,,,
+18-44 years,,,,,,,,,,,,,,2028.08,221.95,18.07,05-14-2020,3,,,
+45-64 years,,,,,,,,,,,,,,3306.44,818.61,167.21,05-14-2020,3,,,
+65-74 years,,,,,,,,,,,,,,3313.75,1586.14,545.83,05-14-2020,3,,,
+75 and older years,,,,,,,,,,,,,,3954.84,2504.87,1366.61,05-14-2020,3,,,
+Citywide total,,,,,,,,,,,,,,2218.1,589.56,182.75,05-14-2020,3,,,
+0-17 years,,,,,,,,,,,,,,279.34,23.97,0.46,05-15-2020,3,,,
+18-44 years,,,,,,,,,,,,,,2042.77,222.45,18.1,05-15-2020,3,,,
+45-64 years,,,,,,,,,,,,,,3332.61,819.73,167.75,05-15-2020,3,,,
+65-74 years,,,,,,,,,,,,,,3342.78,1586.43,549.41,05-15-2020,3,,,
+75 and older years,,,,,,,,,,,,,,4001.46,2508.34,1373.19,05-15-2020,3,,,
+Citywide total,,,,,,,,,,,,,,2236.62,590.33,183.62,05-15-2020,3,,,
+0-17 years,,,,,,,,,,,,,,282.82,23.86,0.46,05-16-2020,3,,,
+18-44 years,,,,,,,,,,,,,,2051.44,223.49,18.4,05-16-2020,3,,,
+45-64 years,,,,,,,,,,,,,,3351.62,826.54,171.49,05-16-2020,3,,,
+65-74 years,,,,,,,,,,,,,,3367.39,1599.59,560.85,05-16-2020,3,,,
+75 and older years,,,,,,,,,,,,,,4049.73,2530.83,1403.72,05-16-2020,3,,,
+Citywide total,,,,,,,,,,,,,,2250.7,594.96,187.6,05-16-2020,3,,,
+0-17 years,,,,,,,,,,,,,,286.93,24.44,0.58,05-17-2020,3,,,
+18-44 years,,,,,,,,,,,,,,2065.77,223.67,18.55,05-17-2020,3,,,
+45-64 years,,,,,,,,,,,,,,3375.5,828.14,172.95,05-17-2020,3,,,
+65-74 years,,,,,,,,,,,,,,3391.99,1604.59,566.86,05-17-2020,3,,,
+75 and older years,,,,,,,,,,,,,,4078.25,2543.08,1413.41,05-17-2020,3,,,
+Citywide total,,,,,,,,,,,,,,2267.1,596.76,189.17,05-17-2020,3,,,
+0-17,,,,,,,,,,,,,,288.95,24.67,0.58,05-18-2020,3,4990.0,426.0,10.0
+18-44,,,,,,,,,,,,,,2073.25,223.88,18.67,05-18-2020,3,69862.0,7544.0,629.0
+45-64,,,,,,,,,,,,,,3385.72,829.46,173.88,05-18-2020,3,69612.0,17054.0,3575.0
+65-74,,,,,,,,,,,,,,3402.72,1608.31,570.72,05-18-2020,3,23789.0,11244.0,3990.0
+75+,,,,,,,,,,,,,,4094.52,2549.11,1421.64,05-18-2020,3,22396.0,13943.0,7776.0
+Citywide,,,,,,,,,,,,,,2275.02,597.91,190.3,05-18-2020,3,191073.0,50217.0,15983.0
+0-17,,,,,,,,,,,,,,290.98,25.13,0.58,05-19-2020,3,5025.0,434.0,10.0
+18-44,,,,,,,,,,,,,,2079.39,227.8,18.73,05-19-2020,3,70069.0,7676.0,631.0
+45-64,,,,,,,,,,,,,,3395.06,835.39,174.9,05-19-2020,3,69804.0,17176.0,3596.0
+65-74,,,,,,,,,,,,,,3412.16,1616.75,573.58,05-19-2020,3,23855.0,11303.0,4010.0
+75+,,,,,,,,,,,,,,4109.33,2563.74,1427.67,05-19-2020,3,22477.0,14023.0,7809.0
+Citywide,,,,,,,,,,,,,,2281.89,602.69,191.21,05-19-2020,3,191650.0,50618.0,16059.0
+0-17,,,,,,,,,,,,,,293.59,25.36,0.58,05-20-2020,4,5070.0,438.0,10.0
+18-44,,,,,,,,,,,,,,2087.7,228.42,18.87,05-20-2020,4,70349.0,7697.0,636.0
+45-64,,,,,,,,,,,,,,3406.19,836.12,176.11,05-20-2020,4,70033.0,17191.0,3621.0
+65-74,,,,,,,,,,,,,,3426.32,1618.18,576.01,05-20-2020,4,23954.0,11313.0,4027.0
+75+,,,,,,,,,,,,,,4121.39,2567.21,1436.26,05-20-2020,4,22543.0,14042.0,7856.0
+Citywide,,,,,,,,,,,,,,2290.51,603.52,192.33,05-20-2020,4,192374.0,50688.0,16153.0
+0-17,,,,,,,,,,,,,,295.44,25.65,0.58,05-21-2020,4,5102.0,443.0,10.0
+18-44,,,,,,,,,,,,,,2093.31,228.95,19.02,05-21-2020,4,70538.0,7715.0,641.0
+45-64,,,,,,,,,,,,,,3413.2,837.38,176.7,05-21-2020,4,70177.0,17217.0,3633.0
+65-74,,,,,,,,,,,,,,3437.04,1620.47,579.3,05-21-2020,4,24029.0,11329.0,4050.0
+75+,,,,,,,,,,,,,,4132.18,2571.23,1443.94,05-21-2020,4,22602.0,14064.0,7898.0
+Citywide,,,,,,,,,,,,,,2296.06,604.49,193.27,05-21-2020,4,192840.0,50770.0,16232.0
+0-17,,,,,,,,,,,,,,301.81,26.12,0.58,05-22-2020,4,5212.0,451.0,10.0
+18-44,,,,,,,,,,,,,,2105.03,229.58,19.08,05-22-2020,4,70933.0,7736.0,643.0
+45-64,,,,,,,,,,,,,,3428.76,838.55,178.11,05-22-2020,4,70497.0,17241.0,3662.0
+65-74,,,,,,,,,,,,,,3455.07,1623.47,583.31,05-22-2020,4,24155.0,11350.0,4078.0
+75+,,,,,,,,,,,,,,4162.53,2574.71,1451.62,05-22-2020,4,22768.0,14083.0,7940.0
+Citywide,,,,,,,,,,,,,,2309.28,605.6,194.47,05-22-2020,4,193951.0,50863.0,16333.0
+0-17,,,,,,,,,,,,,,303.72,26.23,0.58,05-23-2020,4,5245.0,453.0,10.0
+18-44,,,,,,,,,,,,,,2113.22,231.59,19.14,05-23-2020,4,71209.0,7804.0,645.0
+45-64,,,,,,,,,,,,,,3440.53,842.39,178.98,05-23-2020,4,70739.0,17320.0,3680.0
+65-74,,,,,,,,,,,,,,3466.65,1630.34,585.17,05-23-2020,4,24236.0,11398.0,4091.0
+75+,,,,,,,,,,,,,,4177.89,2585.13,1458.38,05-23-2020,4,22852.0,14140.0,7977.0
+Citywide,,,,,,,,,,,,,,2317.81,608.63,195.3,05-23-2020,4,194667.0,51117.0,16403.0
+0-17,,,,,,,,,,,,,,306.33,26.52,0.58,05-24-2020,4,5290.0,458.0,10.0
+18-44,,,,,,,,,,,,,,2121.95,231.92,19.17,05-24-2020,4,71503.0,7815.0,646.0
+45-64,,,,,,,,,,,,,,3452.98,842.93,179.96,05-24-2020,4,70995.0,17331.0,3700.0
+65-74,,,,,,,,,,,,,,3480.67,1632.2,588.03,05-24-2020,4,24334.0,11411.0,4111.0
+75+,,,,,,,,,,,,,,4194.71,2588.97,1462.96,05-24-2020,4,22944.0,14161.0,8002.0
+Citywide,,,,,,,,,,,,,,2327.16,609.35,196.09,05-24-2020,4,195452.0,51178.0,16469.0
+0-17,,,,,,,,,,,,,,308.18,26.52,0.58,05-25-2020,4,5322.0,458.0,10.0
+18-44,,,,,,,,,,,,,,2128.54,231.98,19.17,05-25-2020,4,71725.0,7817.0,646.0
+45-64,,,,,,,,,,,,,,3464.71,843.27,180.2,05-25-2020,4,71236.0,17338.0,3705.0
+65-74,,,,,,,,,,,,,,3489.11,1632.49,588.46,05-25-2020,4,24393.0,11413.0,4114.0
+75+,,,,,,,,,,,,,,4210.06,2590.43,1463.87,05-25-2020,4,23028.0,14169.0,8007.0
+Citywide,,,,,,,,,,,,,,2334.85,609.58,196.24,05-25-2020,4,196098.0,51197.0,16482.0
+0-17,,,,,,,,,,,,,,309.22,26.46,0.58,05-26-2020,4,5340.0,457.0,10.0
+18-44,,,,,,,,,,,,,,2134.09,232.63,19.32,05-26-2020,4,71912.0,7839.0,651.0
+45-64,,,,,,,,,,,,,,3474.38,844.19,180.93,05-26-2020,4,71435.0,17357.0,3720.0
+65-74,,,,,,,,,,,,,,3496.41,1635.06,590.89,05-26-2020,4,24444.0,11431.0,4131.0
+75+,,,,,,,,,,,,,,4221.58,2596.28,1472.28,05-26-2020,4,23091.0,14201.0,8053.0
+Citywide,,,,,,,,,,,,,,2341.1,610.65,197.23,05-26-2020,4,196623.0,51287.0,16565.0
+0-17,,,,,,,,,,,,,,310.96,27.22,0.58,05-27-2020,5,5370.0,470.0,10.0
+18-44,,,,,,,,,,,,,,2141.83,233.35,19.32,05-27-2020,5,72173.0,7863.0,651.0
+45-64,,,,,,,,,,,,,,3486.83,845.17,181.32,05-27-2020,5,71691.0,17377.0,3728.0
+65-74,,,,,,,,,,,,,,3507.42,1636.78,592.17,05-27-2020,5,24521.0,11443.0,4140.0
+75+,,,,,,,,,,,,,,4238.04,2600.48,1477.4,05-27-2020,5,23181.0,14224.0,8081.0
+Citywide,,,,,,,,,,,,,,2349.77,611.76,197.77,05-27-2020,5,197351.0,51380.0,16610.0
+0-17,,,,,,,,,,,,,,313.74,28.03,0.58,05-28-2020,5,5418.0,484.0,10.0
+18-44,,,,,,,,,,,,,,2152.6,233.61,19.35,05-28-2020,5,72536.0,7872.0,652.0
+45-64,,,,,,,,,,,,,,3503.66,845.7,182.05,05-28-2020,5,72037.0,17388.0,3743.0
+65-74,,,,,,,,,,,,,,3519.29,1638.21,594.18,05-28-2020,5,24604.0,11453.0,4154.0
+75+,,,,,,,,,,,,,,4248.82,2605.06,1483.43,05-28-2020,5,23240.0,14249.0,8114.0
+Citywide,,,,,,,,,,,,,,2360.53,612.58,198.52,05-28-2020,5,198255.0,51449.0,16673.0
+0-17,,,,,,,,,,,,,,316.0,28.2,0.58,05-29-2020,5,5457.0,487.0,10.0
+18-44,,,,,,,,,,,,,,2161.77,233.7,19.38,05-29-2020,5,72845.0,7875.0,653.0
+45-64,,,,,,,,,,,,,,3517.14,845.99,182.92,05-29-2020,5,72314.0,17394.0,3761.0
+65-74,,,,,,,,,,,,,,3531.45,1639.21,596.89,05-29-2020,5,24689.0,11460.0,4173.0
+75+,,,,,,,,,,,,,,4260.89,2607.43,1488.19,05-29-2020,5,23306.0,14262.0,8140.0
+Citywide,,,,,,,,,,,,,,2369.85,612.96,199.28,05-29-2020,5,199038.0,51481.0,16737.0
+0-17,,,,,,,,,,,,,,318.31,29.47,0.58,05-30-2020,5,5497.0,509.0,10.0
+18-44,,,,,,,,,,,,,,2171.95,235.96,19.47,05-30-2020,5,73188.0,7951.0,656.0
+45-64,,,,,,,,,,,,,,3531.78,849.93,183.26,05-30-2020,5,72615.0,17475.0,3768.0
+65-74,,,,,,,,,,,,,,3544.18,1646.79,598.9,05-30-2020,5,24778.0,11513.0,4187.0
+75+,,,,,,,,,,,,,,4275.88,2622.24,1492.57,05-30-2020,5,23388.0,14343.0,8164.0
+Citywide,,,,,,,,,,,,,,2380.03,616.68,199.85,05-30-2020,5,199893.0,51793.0,16785.0
+0-17,,,,,,,,,,,,,,319.24,30.0,0.58,05-31-2020,5,5513.0,518.0,10.0
+18-44,,,,,,,,,,,,,,2179.31,238.92,19.53,05-31-2020,5,73436.0,8051.0,658.0
+45-64,,,,,,,,,,,,,,3543.25,856.4,183.9,05-31-2020,5,72851.0,17608.0,3781.0
+65-74,,,,,,,,,,,,,,3554.76,1659.66,601.62,05-31-2020,5,24852.0,11603.0,4206.0
+75+,,,,,,,,,,,,,,4290.87,2638.69,1497.87,05-31-2020,5,23470.0,14433.0,8193.0
+Citywide,,,,,,,,,,,,,,2387.82,621.69,200.6,05-31-2020,5,200547.0,52214.0,16848.0
+0-17,,,,,,,,,,,,,,319.99,29.94,0.64,06-01-2020,5,5526.0,517.0,11.0
+18-44,,,,,,,,,,,,,,2183.11,240.59,19.53,06-01-2020,5,73564.0,8107.0,658.0
+45-64,,,,,,,,,,,,,,3547.73,858.05,184.04,06-01-2020,5,72943.0,17642.0,3784.0
+65-74,,,,,,,,,,,,,,3559.06,1662.67,603.19,06-01-2020,5,24882.0,11624.0,4217.0
+75+,,,,,,,,,,,,,,4295.44,2640.34,1501.35,06-01-2020,5,23495.0,14442.0,8212.0
+Citywide,,,,,,,,,,,,,,2391.19,623.1,201.01,06-01-2020,5,200830.0,52333.0,16882.0
+0-17,,,,,,,,,,,,,,320.51,29.94,0.64,06-02-2020,5,5535.0,517.0,11.0
+18-44,,,,,,,,,,,,,,2186.82,241.45,19.5,06-02-2020,5,73689.0,8136.0,657.0
+45-64,,,,,,,,,,,,,,3552.74,859.32,184.09,06-02-2020,5,73046.0,17668.0,3785.0
+65-74,,,,,,,,,,,,,,3561.92,1665.53,603.33,06-02-2020,5,24902.0,11644.0,4218.0
+75+,,,,,,,,,,,,,,4301.29,2646.56,1502.99,06-02-2020,5,23527.0,14476.0,8221.0
+Citywide,,,,,,,,,,,,,,2394.68,624.39,201.13,06-02-2020,5,201123.0,52441.0,16892.0
+0-17,,,,,,,,,,,,,,320.8,28.43,0.64,06-03-2020,6,5540.0,491.0,11.0
+18-44,,,,,,,,,,,,,,2196.05,241.89,19.56,06-03-2020,6,74000.0,8151.0,659.0
+45-64,,,,,,,,,,,,,,3564.7,859.66,184.43,06-03-2020,6,73292.0,17675.0,3792.0
+65-74,,,,,,,,,,,,,,3571.21,1666.67,605.05,06-03-2020,6,24967.0,11652.0,4230.0
+75+,,,,,,,,,,,,,,4310.8,2648.57,1506.65,06-03-2020,6,23579.0,14487.0,8241.0
+Citywide,,,,,,,,,,,,,,2402.81,624.57,201.61,06-03-2020,6,201806.0,52456.0,16933.0
+0-17,,,,,,,,,,,,,,321.5,28.61,0.64,06-04-2020,6,5552.0,494.0,11.0
+18-44,,,,,,,,,,,,,,2201.87,242.49,19.68,06-04-2020,6,74196.0,8171.0,663.0
+45-64,,,,,,,,,,,,,,3572.97,860.44,184.97,06-04-2020,6,73462.0,17691.0,3803.0
+65-74,,,,,,,,,,,,,,3579.22,1668.67,607.62,06-04-2020,6,25023.0,11666.0,4248.0
+75+,,,,,,,,,,,,,,4325.06,2652.04,1511.4,06-04-2020,6,23657.0,14506.0,8267.0
+Citywide,,,,,,,,,,,,,,2408.92,625.43,202.32,06-04-2020,6,202319.0,52528.0,16992.0
+0-17,,,,,,,,,,,,,,323.0,28.61,0.64,06-05-2020,6,5578.0,494.0,11.0
+18-44,,,,,,,,,,,,,,2206.41,243.82,19.82,06-05-2020,6,74349.0,8216.0,668.0
+45-64,,,,,,,,,,,,,,3581.92,863.01,185.79,06-05-2020,6,73646.0,17744.0,3820.0
+65-74,,,,,,,,,,,,,,3587.95,1672.82,609.2,06-05-2020,6,25084.0,11695.0,4259.0
+75+,,,,,,,,,,,,,,4340.05,2659.54,1516.71,06-05-2020,6,23739.0,14547.0,8296.0
+Citywide,,,,,,,,,,,,,,2414.99,627.44,203.07,06-05-2020,6,202829.0,52697.0,17055.0
+0-17,,,,,,,,,,,,,,324.39,28.72,0.64,06-06-2020,6,5602.0,496.0,11.0
+18-44,,,,,,,,,,,,,,2212.67,244.59,19.85,06-06-2020,6,74560.0,8242.0,669.0
+45-64,,,,,,,,,,,,,,3591.84,864.28,186.62,06-06-2020,6,73850.0,17770.0,3837.0
+65-74,,,,,,,,,,,,,,3598.25,1675.4,611.06,06-06-2020,6,25156.0,11713.0,4272.0
+75+,,,,,,,,,,,,,,4356.14,2663.38,1521.64,06-06-2020,6,23827.0,14568.0,8323.0
+Citywide,,,,,,,,,,,,,,2422.15,628.55,203.76,06-06-2020,6,203430.0,52790.0,17113.0
+0-17,,,,,,,,,,,,,,325.43,29.07,0.64,06-07-2020,6,5620.0,502.0,11.0
+18-44,,,,,,,,,,,,,,2216.76,245.36,19.91,06-07-2020,6,74698.0,8268.0,671.0
+45-64,,,,,,,,,,,,,,3597.68,865.54,186.72,06-07-2020,6,73970.0,17796.0,3839.0
+65-74,,,,,,,,,,,,,,3603.11,1678.97,612.2,06-07-2020,6,25190.0,11738.0,4280.0
+75+,,,,,,,,,,,,,,4370.58,2669.23,1525.48,06-07-2020,6,23906.0,14600.0,8344.0
+Citywide,,,,,,,,,,,,,,2426.78,629.92,204.15,06-07-2020,6,203819.0,52905.0,17146.0
+0-17,,,,,,,,,,,,,,326.42,29.07,0.64,06-08-2020,6,5637.0,502.0,11.0
+18-44,,,,,,,,,,,,,,2221.31,245.45,20.0,06-08-2020,6,74851.0,8271.0,674.0
+45-64,,,,,,,,,,,,,,3605.46,865.64,186.86,06-08-2020,6,74130.0,17798.0,3842.0
+65-74,,,,,,,,,,,,,,3609.4,1679.12,612.92,06-08-2020,6,25234.0,11739.0,4285.0
+75+,,,,,,,,,,,,,,4381.0,2670.87,1527.67,06-08-2020,6,23963.0,14609.0,8356.0
+Citywide,,,,,,,,,,,,,,2431.95,630.09,204.42,06-08-2020,6,204253.0,52920.0,17169.0
+0-17,,,,,,,,,,,,,,327.23,29.13,0.64,06-09-2020,6,5651.0,503.0,11.0
+18-44,,,,,,,,,,,,,,2224.87,247.14,20.06,06-09-2020,6,74971.0,8328.0,676.0
+45-64,,,,,,,,,,,,,,3610.81,871.96,187.25,06-09-2020,6,74240.0,17928.0,3850.0
+65-74,,,,,,,,,,,,,,3614.84,1690.56,614.06,06-09-2020,6,25272.0,11819.0,4293.0
+75+,,,,,,,,,,,,,,4388.68,2691.53,1530.6,06-09-2020,6,24005.0,14722.0,8372.0
+Citywide,,,,,,,,,,,,,,2435.79,634.63,204.83,06-09-2020,6,204576.0,53301.0,17203.0
+0-17,,,,,,,,,,,,,,328.21,29.3,0.64,06-10-2020,7,5668.0,506.0,11.0
+18-44,,,,,,,,,,,,,,2229.64,247.68,20.12,06-10-2020,7,75132.0,8346.0,678.0
+45-64,,,,,,,,,,,,,,3617.23,872.84,187.64,06-10-2020,7,74372.0,17946.0,3858.0
+65-74,,,,,,,,,,,,,,3623.71,1692.28,616.49,06-10-2020,7,25334.0,11831.0,4310.0
+75+,,,,,,,,,,,,,,4399.47,2694.64,1535.17,06-10-2020,7,24064.0,14739.0,8397.0
+Citywide,,,,,,,,,,,,,,2440.97,635.44,205.45,06-10-2020,7,205011.0,53369.0,17255.0
+0-17,,,,,,,,,,,,,,329.55,29.42,0.64,06-11-2020,7,5691.0,508.0,11.0
+18-44,,,,,,,,,,,,,,2233.68,247.95,20.15,06-11-2020,7,75268.0,8355.0,679.0
+45-64,,,,,,,,,,,,,,3624.23,873.42,187.93,06-11-2020,7,74516.0,17958.0,3864.0
+65-74,,,,,,,,,,,,,,3630.57,1693.42,618.21,06-11-2020,7,25382.0,11839.0,4322.0
+75+,,,,,,,,,,,,,,4407.15,2697.02,1539.92,06-11-2020,7,24106.0,14752.0,8423.0
+Citywide,,,,,,,,,,,,,,2445.66,635.96,205.98,06-11-2020,7,205405.0,53413.0,17300.0
+0-17,,,,,,,,,,,,,,330.59,29.65,0.64,06-12-2020,7,5709.0,512.0,11.0
+18-44,,,,,,,,,,,,,,2238.61,248.42,20.24,06-12-2020,7,75434.0,8371.0,682.0
+45-64,,,,,,,,,,,,,,3631.58,874.06,188.37,06-12-2020,7,74667.0,17971.0,3873.0
+65-74,,,,,,,,,,,,,,3637.3,1694.71,620.21,06-12-2020,7,25429.0,11848.0,4336.0
+75+,,,,,,,,,,,,,,4417.75,2699.94,1544.49,06-12-2020,7,24164.0,14768.0,8448.0
+Citywide,,,,,,,,,,,,,,2450.91,636.65,206.59,06-12-2020,7,205846.0,53471.0,17351.0
+0-17,,,,,,,,,,,,,,331.63,29.71,0.64,06-13-2020,7,5727.0,513.0,11.0
+18-44,,,,,,,,,,,,,,2243.89,248.39,20.24,06-13-2020,7,75612.0,8370.0,682.0
+45-64,,,,,,,,,,,,,,3639.99,874.25,188.86,06-13-2020,7,74840.0,17975.0,3883.0
+65-74,,,,,,,,,,,,,,3644.45,1695.14,621.5,06-13-2020,7,25479.0,11851.0,4345.0
+75+,,,,,,,,,,,,,,4427.99,2701.04,1547.79,06-13-2020,7,24220.0,14774.0,8466.0
+Citywide,,,,,,,,,,,,,,2456.58,636.81,207.03,06-13-2020,7,206322.0,53484.0,17388.0
+0-17,,,,,,,,,,,,,,332.33,29.94,0.64,06-14-2020,7,5739.0,517.0,11.0
+18-44,,,,,,,,,,,,,,2246.77,249.13,20.39,06-14-2020,7,75709.0,8395.0,687.0
+45-64,,,,,,,,,,,,,,3644.56,875.37,189.0,06-14-2020,7,74934.0,17998.0,3886.0
+65-74,,,,,,,,,,,,,,3650.03,1695.99,622.21,06-14-2020,7,25518.0,11857.0,4350.0
+75+,,,,,,,,,,,,,,4435.3,2703.78,1550.35,06-14-2020,7,24260.0,14789.0,8480.0
+Citywide,,,,,,,,,,,,,,2459.96,637.68,207.35,06-14-2020,7,206606.0,53557.0,17415.0
+0-17,,,,,,,,,,,,,,333.25,30.0,0.64,06-15-2020,7,5755.0,518.0,11.0
+18-44,,,,,,,,,,,,,,2251.16,249.28,20.42,06-15-2020,7,75857.0,8400.0,688.0
+45-64,,,,,,,,,,,,,,3652.3,875.47,189.3,06-15-2020,7,75093.0,18000.0,3892.0
+65-74,,,,,,,,,,,,,,3657.75,1696.14,622.78,06-15-2020,7,25572.0,11858.0,4354.0
+75+,,,,,,,,,,,,,,4446.82,2704.69,1551.62,06-15-2020,7,24323.0,14794.0,8487.0
+Citywide,,,,,,,,,,,,,,2465.24,637.85,207.57,06-15-2020,7,207049.0,53571.0,17433.0
+0-17,,,,,,,,,,,,,,334.0,30.17,0.64,06-16-2020,7,5768.0,521.0,11.0
+18-44,,,,,,,,,,,,,,2254.69,249.61,20.45,06-16-2020,7,75976.0,8411.0,689.0
+45-64,,,,,,,,,,,,,,3658.57,876.1,189.68,06-16-2020,7,75222.0,18013.0,3900.0
+65-74,,,,,,,,,,,,,,3661.76,1696.71,623.64,06-16-2020,7,25600.0,11862.0,4360.0
+75+,,,,,,,,,,,,,,4452.49,2705.97,1552.9,06-16-2020,7,24354.0,14801.0,8494.0
+Citywide,,,,,,,,,,,,,,2469.09,638.3,207.83,06-16-2020,7,207373.0,53609.0,17455.0
+0-17,,,,,,,,,,,,,,335.22,30.81,0.64,06-17-2020,8,5789.0,532.0,11.0
+18-44,,,,,,,,,,,,,,2259.91,253.55,20.48,06-17-2020,8,76152.0,8544.0,690.0
+45-64,,,,,,,,,,,,,,3666.65,884.42,190.22,06-17-2020,8,75388.0,18184.0,3911.0
+65-74,,,,,,,,,,,,,,3668.62,1712.3,624.64,06-17-2020,8,25648.0,11971.0,4367.0
+75+,,,,,,,,,,,,,,4459.07,2730.84,1555.28,06-17-2020,8,24390.0,14937.0,8507.0
+Citywide,,,,,,,,,,,,,,2474.43,644.98,208.21,06-17-2020,8,207821.0,54170.0,17487.0
+0-17,,,,,,,,,,,,,,335.92,30.86,0.64,06-18-2020,8,5801.0,533.0,11.0
+18-44,,,,,,,,,,,,,,2263.15,253.73,20.48,06-18-2020,8,76261.0,8550.0,690.0
+45-64,,,,,,,,,,,,,,3671.8,885.0,190.41,06-18-2020,8,75494.0,18196.0,3915.0
+65-74,,,,,,,,,,,,,,3672.06,1713.87,625.07,06-18-2020,8,25672.0,11982.0,4370.0
+75+,,,,,,,,,,,,,,4463.64,2732.67,1557.66,06-18-2020,8,24415.0,14947.0,8520.0
+Citywide,,,,,,,,,,,,,,2477.71,645.45,208.45,06-18-2020,8,208097.0,54210.0,17507.0
+0-17,,,,,,,,,,,,,,336.96,30.98,0.64,06-19-2020,8,5819.0,535.0,11.0
+18-44,,,,,,,,,,,,,,2267.04,254.21,20.54,06-19-2020,8,76392.0,8566.0,692.0
+45-64,,,,,,,,,,,,,,3677.98,885.58,190.56,06-19-2020,8,75621.0,18208.0,3918.0
+65-74,,,,,,,,,,,,,,3676.63,1714.59,626.5,06-19-2020,8,25704.0,11987.0,4380.0
+75+,,,,,,,,,,,,,,4472.6,2734.68,1562.05,06-19-2020,8,24464.0,14958.0,8544.0
+Citywide,,,,,,,,,,,,,,2481.98,646.0,208.91,06-19-2020,8,208455.0,54256.0,17546.0
+0-17,,,,,,,,,,,,,,337.71,31.15,0.64,06-20-2020,8,5832.0,538.0,11.0
+18-44,,,,,,,,,,,,,,2270.86,254.56,20.54,06-20-2020,8,76521.0,8578.0,692.0
+45-64,,,,,,,,,,,,,,3682.94,885.73,190.9,06-20-2020,8,75723.0,18211.0,3925.0
+65-74,,,,,,,,,,,,,,3680.49,1715.3,626.79,06-20-2020,8,25731.0,11992.0,4382.0
+75+,,,,,,,,,,,,,,4479.0,2734.86,1563.51,06-20-2020,8,24499.0,14959.0,8552.0
+Citywide,,,,,,,,,,,,,,2485.64,646.29,209.11,06-20-2020,8,208763.0,54280.0,17563.0
+0-17,,,,,,,,,,,,,,339.74,31.21,0.64,06-21-2020,8,5867.0,539.0,11.0
+18-44,,,,,,,,,,,,,,2277.69,255.13,20.57,06-21-2020,8,76751.0,8597.0,693.0
+45-64,,,,,,,,,,,,,,3691.99,886.36,191.14,06-21-2020,8,75909.0,18224.0,3930.0
+65-74,,,,,,,,,,,,,,3688.79,1716.31,628.08,06-21-2020,8,25789.0,11999.0,4391.0
+75+,,,,,,,,,,,,,,4486.31,2739.43,1566.8,06-21-2020,8,24539.0,14984.0,8570.0
+Citywide,,,,,,,,,,,,,,2492.19,647.06,209.51,06-21-2020,8,209313.0,54345.0,17596.0
+0-17,,,,,,,,,,,,,,340.14,31.33,0.64,06-22-2020,8,5874.0,541.0,11.0
+18-44,,,,,,,,,,,,,,2280.75,255.69,20.6,06-22-2020,8,76854.0,8616.0,694.0
+45-64,,,,,,,,,,,,,,3696.31,887.24,191.87,06-22-2020,8,75998.0,18242.0,3945.0
+65-74,,,,,,,,,,,,,,3692.51,1718.31,629.94,06-22-2020,8,25815.0,12013.0,4404.0
+75+,,,,,,,,,,,,,,4489.97,2741.99,1568.81,06-22-2020,8,24559.0,14998.0,8581.0
+Citywide,,,,,,,,,,,,,,2495.16,647.86,209.98,06-22-2020,8,209562.0,54412.0,17636.0
+0-17,,,,,,,,,,,,,,340.72,31.33,0.64,06-23-2020,8,5884.0,541.0,11.0
+18-44,,,,,,,,,,,,,,2285.38,255.69,20.65,06-23-2020,8,77010.0,8616.0,696.0
+45-64,,,,,,,,,,,,,,3701.28,887.33,192.12,06-23-2020,8,76100.0,18244.0,3950.0
+65-74,,,,,,,,,,,,,,3697.09,1719.17,630.51,06-23-2020,8,25847.0,12019.0,4408.0
+75+,,,,,,,,,,,,,,4495.09,2742.17,1570.64,06-23-2020,8,24587.0,14999.0,8591.0
+Citywide,,,,,,,,,,,,,,2499.1,647.97,210.23,06-23-2020,8,209893.0,54421.0,17657.0
+0-17,,,,,,,,,,,,,,341.36,31.44,0.69,06-24-2020,9,5895.0,543.0,12.0
+18-44,,,,,,,,,,,,,,2289.29,256.17,20.54,06-24-2020,9,77142.0,8632.0,692.0
+45-64,,,,,,,,,,,,,,3705.75,888.31,192.51,06-24-2020,9,76192.0,18264.0,3958.0
+65-74,,,,,,,,,,,,,,3701.81,1721.74,630.94,06-24-2020,9,25880.0,12037.0,4411.0
+75+,,,,,,,,,,,,,,4499.47,2747.11,1574.29,06-24-2020,9,24611.0,15026.0,8611.0
+Citywide,,,,,,,,,,,,,,2502.58,648.95,210.57,06-24-2020,9,210185.0,54504.0,17685.0
+0-17,,,,,,,,,,,,,,342.29,31.5,0.69,06-25-2020,9,5911.0,544.0,12.0
+18-44,,,,,,,,,,,,,,2293.42,256.67,20.6,06-25-2020,9,77281.0,8649.0,694.0
+45-64,,,,,,,,,,,,,,3711.2,888.89,192.99,06-25-2020,9,76304.0,18276.0,3968.0
+65-74,,,,,,,,,,,,,,3707.1,1723.31,631.65,06-25-2020,9,25917.0,12048.0,4416.0
+75+,,,,,,,,,,,,,,4505.51,2750.58,1576.67,06-25-2020,9,24644.0,15045.0,8624.0
+Citywide,,,,,,,,,,,,,,2506.6,649.67,210.92,06-25-2020,9,210523.0,54564.0,17715.0
+0-17,,,,,,,,,,,,,,343.15,31.56,0.69,06-26-2020,9,5926.0,545.0,12.0
+18-44,,,,,,,,,,,,,,2299.12,256.88,20.65,06-26-2020,9,77473.0,8656.0,696.0
+45-64,,,,,,,,,,,,,,3716.06,889.04,193.23,06-26-2020,9,76404.0,18279.0,3973.0
+65-74,,,,,,,,,,,,,,3711.96,1723.6,633.23,06-26-2020,9,25951.0,12050.0,4427.0
+75+,,,,,,,,,,,,,,4512.82,2750.77,1580.33,06-26-2020,9,24684.0,15046.0,8644.0
+Citywide,,,,,,,,,,,,,,2511.18,649.83,211.38,06-26-2020,9,210908.0,54578.0,17753.0
+0-17,,,,,,,,,,,,,,343.68,31.67,0.69,06-27-2020,9,5935.0,547.0,12.0
+18-44,,,,,,,,,,,,,,2303.63,257.18,20.74,06-27-2020,9,77625.0,8666.0,699.0
+45-64,,,,,,,,,,,,,,3721.51,889.81,193.58,06-27-2020,9,76516.0,18295.0,3980.0
+65-74,,,,,,,,,,,,,,3714.97,1724.6,633.94,06-27-2020,9,25972.0,12057.0,4432.0
+75+,,,,,,,,,,,,,,4517.39,2752.78,1582.34,06-27-2020,9,24709.0,15057.0,8655.0
+Citywide,,,,,,,,,,,,,,2515.01,650.38,211.69,06-27-2020,9,211229.0,54624.0,17779.0
+0-17,,,,,,,,,,,,,,344.83,31.67,0.69,06-28-2020,9,5955.0,547.0,12.0
+18-44,,,,,,,,,,,,,,2308.46,257.59,20.8,06-28-2020,9,77788.0,8680.0,701.0
+45-64,,,,,,,,,,,,,,3726.13,890.59,193.72,06-28-2020,9,76611.0,18311.0,3983.0
+65-74,,,,,,,,,,,,,,3719.11,1727.03,634.23,06-28-2020,9,26001.0,12074.0,4434.0
+75+,,,,,,,,,,,,,,4523.42,2756.07,1584.9,06-28-2020,9,24742.0,15075.0,8669.0
+Citywide,,,,,,,,,,,,,,2519.05,651.16,211.94,06-28-2020,9,211569.0,54689.0,17800.0
+0-17,,,,,,,,,,,,,,346.17,32.08,0.69,06-30-2020,9,5978.0,554.0,12.0
+18-44,,,,,,,,,,,,,,2314.99,259.52,21.46,06-30-2020,9,78008.0,8745.0,723.0
+45-64,,,,,,,,,,,,,,3733.42,894.34,201.02,06-30-2020,9,76761.0,18388.0,4133.0
+65-74,,,,,,,,,,,,,,3726.55,1734.47,657.97,06-30-2020,9,26053.0,12126.0,4600.0
+75+,,,,,,,,,,,,,,4534.03,2768.87,1649.62,06-30-2020,9,24800.0,15145.0,9023.0
+Citywide,,,,,,,,,,,,,,2525.04,654.38,220.18,06-30-2020,9,212072.0,54960.0,18492.0
+0-17,,,,,,,,,,,,,,347.27,32.14,0.69,07-01-2020,10,5997.0,555.0,12.0
+18-44,,,,,,,,,,,,,,2320.16,259.91,21.43,07-01-2020,10,78182.0,8758.0,722.0
+45-64,,,,,,,,,,,,,,3737.95,895.31,200.97,07-01-2020,10,76854.0,18408.0,4132.0
+65-74,,,,,,,,,,,,,,3731.13,1736.33,658.4,07-01-2020,10,26085.0,12139.0,4603.0
+75+,,,,,,,,,,,,,,4538.05,2771.61,1650.35,07-01-2020,10,24822.0,15160.0,9027.0
+Citywide,,,,,,,,,,,,,,2529.09,655.12,220.24,07-01-2020,10,212412.0,55022.0,18497.0
+0-17,,,,,,,,,,,,,,348.89,32.2,0.69,07-02-2020,10,6025.0,556.0,12.0
+18-44,,,,,,,,,,,,,,2324.64,260.05,21.46,07-02-2020,10,78333.0,8763.0,723.0
+45-64,,,,,,,,,,,,,,3743.35,895.7,201.36,07-02-2020,10,76965.0,18416.0,4140.0
+65-74,,,,,,,,,,,,,,3736.85,1736.9,658.83,07-02-2020,10,26125.0,12143.0,4606.0
+75+,,,,,,,,,,,,,,4543.72,2772.52,1652.18,07-02-2020,10,24853.0,15165.0,9037.0
+Citywide,,,,,,,,,,,,,,2533.4,655.4,220.5,07-02-2020,10,212774.0,55045.0,18519.0
+0-17,,,,,,,,,,,,,,350.16,32.25,0.69,07-03-2020,10,6047.0,557.0,12.0
+18-44,,,,,,,,,,,,,,2331.08,260.65,21.4,07-03-2020,10,78550.0,8783.0,721.0
+45-64,,,,,,,,,,,,,,3750.06,896.67,201.65,07-03-2020,10,77103.0,18436.0,4146.0
+65-74,,,,,,,,,,,,,,3741.0,1738.48,659.12,07-03-2020,10,26154.0,12154.0,4608.0
+75+,,,,,,,,,,,,,,4549.39,2774.9,1654.01,07-03-2020,10,24884.0,15178.0,9047.0
+Citywide,,,,,,,,,,,,,,2538.62,656.17,220.69,07-03-2020,10,213212.0,55110.0,18535.0
+0-17,,,,,,,,,,,,,,351.43,32.31,0.69,07-04-2020,10,6069.0,558.0,12.0
+18-44,,,,,,,,,,,,,,2336.75,260.97,21.46,07-04-2020,10,78741.0,8794.0,723.0
+45-64,,,,,,,,,,,,,,3754.92,897.21,201.7,07-04-2020,10,77203.0,18447.0,4147.0
+65-74,,,,,,,,,,,,,,3744.29,1739.62,659.12,07-04-2020,10,26177.0,12162.0,4608.0
+75+,,,,,,,,,,,,,,4551.76,2776.73,1657.11,07-04-2020,10,24897.0,15188.0,9064.0
+Citywide,,,,,,,,,,,,,,2542.77,656.66,220.93,07-04-2020,10,213561.0,55151.0,18555.0
+0-17,,,,,,,,,,,,,,352.48,32.31,0.75,07-05-2020,10,6087.0,558.0,13.0
+18-44,,,,,,,,,,,,,,2341.23,261.09,21.49,07-05-2020,10,78892.0,8798.0,724.0
+45-64,,,,,,,,,,,,,,3759.1,897.6,201.94,07-05-2020,10,77289.0,18455.0,4152.0
+65-74,,,,,,,,,,,,,,3747.72,1740.19,660.55,07-05-2020,10,26201.0,12166.0,4618.0
+75+,,,,,,,,,,,,,,4554.5,2777.28,1659.13,07-05-2020,10,24912.0,15191.0,9075.0
+Citywide,,,,,,,,,,,,,,2546.24,656.88,221.26,07-05-2020,10,213852.0,55170.0,18583.0
+0-17,,,,,,,,,,,,,,353.52,32.31,0.75,07-06-2020,10,6105.0,558.0,13.0
+18-44,,,,,,,,,,,,,,2344.31,261.12,21.52,07-06-2020,10,78996.0,8799.0,725.0
+45-64,,,,,,,,,,,,,,3761.78,897.64,202.09,07-06-2020,10,77344.0,18456.0,4155.0
+65-74,,,,,,,,,,,,,,3750.44,1740.34,660.98,07-06-2020,10,26220.0,12167.0,4621.0
+75+,,,,,,,,,,,,,,4556.88,2777.28,1660.22,07-06-2020,10,24925.0,15191.0,9081.0
+Citywide,,,,,,,,,,,,,,2548.73,656.92,221.41,07-06-2020,10,214061.0,55173.0,18596.0
+0-17,,,,,,,,,,,,,,354.62,32.43,0.75,07-07-2020,10,6124.0,560.0,13.0
+18-44,,,,,,,,,,,,,,2349.69,261.98,21.46,07-07-2020,10,79177.0,8828.0,723.0
+45-64,,,,,,,,,,,,,,3765.48,899.05,202.14,07-07-2020,10,77420.0,18485.0,4156.0
+65-74,,,,,,,,,,,,,,3753.16,1743.05,661.69,07-07-2020,10,26239.0,12186.0,4626.0
+75+,,,,,,,,,,,,,,4559.26,2780.2,1662.23,07-07-2020,10,24938.0,15207.0,9092.0
+Citywide,,,,,,,,,,,,,,2552.42,658.05,221.59,07-07-2020,10,214371.0,55268.0,18611.0
+0-17,,,,,,,,,,,,,,355.2,32.49,0.75,07-08-2020,11,6134.0,561.0,13.0
+18-44,,,,,,,,,,,,,,2352.8,262.01,21.4,07-08-2020,11,79282.0,8829.0,721.0
+45-64,,,,,,,,,,,,,,3768.1,899.35,202.28,07-08-2020,11,77474.0,18491.0,4159.0
+65-74,,,,,,,,,,,,,,3754.73,1743.05,662.12,07-08-2020,11,26250.0,12186.0,4629.0
+75+,,,,,,,,,,,,,,4562.73,2780.93,1662.78,07-08-2020,11,24957.0,15211.0,9095.0
+Citywide,,,,,,,,,,,,,,2554.79,658.19,221.68,07-08-2020,11,214570.0,55280.0,18618.0
+0-17,,,,,,,,,,,,,,356.76,32.6,0.75,07-09-2020,11,6161.0,563.0,13.0
+18-44,,,,,,,,,,,,,,2358.59,262.72,21.43,07-09-2020,11,79477.0,8853.0,722.0
+45-64,,,,,,,,,,,,,,3773.36,900.61,202.38,07-09-2020,11,77582.0,18517.0,4161.0
+65-74,,,,,,,,,,,,,,3758.88,1744.34,662.55,07-09-2020,11,26279.0,12195.0,4632.0
+75+,,,,,,,,,,,,,,4566.94,2784.41,1665.16,07-09-2020,11,24980.0,15230.0,9108.0
+Citywide,,,,,,,,,,,,,,2559.33,659.15,221.9,07-09-2020,11,214952.0,55360.0,18637.0
+0-17,,,,,,,,,,,,,,358.27,32.6,0.75,07-10-2020,11,6187.0,563.0,13.0
+18-44,,,,,,,,,,,,,,2363.72,262.78,21.4,07-10-2020,11,79650.0,8855.0,721.0
+45-64,,,,,,,,,,,,,,3777.2,900.95,202.67,07-10-2020,11,77661.0,18524.0,4167.0
+65-74,,,,,,,,,,,,,,3761.6,1744.77,662.98,07-10-2020,11,26298.0,12198.0,4635.0
+75+,,,,,,,,,,,,,,4569.86,2784.41,1666.62,07-10-2020,11,24996.0,15230.0,9116.0
+Citywide,,,,,,,,,,,,,,2563.06,659.29,222.09,07-10-2020,11,215265.0,55372.0,18653.0
+0-17,,,,,,,,,,,,,,359.37,32.78,0.75,07-11-2020,11,6206.0,566.0,13.0
+18-44,,,,,,,,,,,,,,2369.06,263.26,21.37,07-11-2020,11,79830.0,8871.0,720.0
+45-64,,,,,,,,,,,,,,3782.11,901.39,202.67,07-11-2020,11,77762.0,18533.0,4167.0
+65-74,,,,,,,,,,,,,,3763.89,1744.91,663.69,07-11-2020,11,26314.0,12199.0,4640.0
+75+,,,,,,,,,,,,,,4572.06,2786.96,1668.45,07-11-2020,11,25008.0,15244.0,9126.0
+Citywide,,,,,,,,,,,,,,2567.03,659.8,222.26,07-11-2020,11,215598.0,55415.0,18667.0
+0-17,,,,,,,,,,,,,,360.41,32.95,0.75,07-12-2020,11,6224.0,569.0,13.0
+18-44,,,,,,,,,,,,,,2374.7,263.56,21.37,07-12-2020,11,80020.0,8881.0,720.0
+45-64,,,,,,,,,,,,,,3786.44,902.17,202.77,07-12-2020,11,77851.0,18549.0,4169.0
+65-74,,,,,,,,,,,,,,3766.32,1745.63,663.84,07-12-2020,11,26331.0,12204.0,4641.0
+75+,,,,,,,,,,,,,,4574.43,2787.33,1668.45,07-12-2020,11,25021.0,15246.0,9126.0
+Citywide,,,,,,,,,,,,,,2570.91,660.23,222.3,07-12-2020,11,215924.0,55451.0,18670.0
+0-17,,,,,,,,,,,,,,361.05,33.01,0.75,07-13-2020,11,6235.0,570.0,13.0
+18-44,,,,,,,,,,,,,,2379.48,263.76,21.43,07-13-2020,11,80181.0,8888.0,722.0
+45-64,,,,,,,,,,,,,,3789.7,902.7,203.01,07-13-2020,11,77918.0,18560.0,4174.0
+65-74,,,,,,,,,,,,,,3769.32,1746.34,664.84,07-13-2020,11,26352.0,12209.0,4648.0
+75+,,,,,,,,,,,,,,4576.99,2789.34,1672.84,07-13-2020,11,25035.0,15257.0,9150.0
+Citywide,,,,,,,,,,,,,,2574.18,660.65,222.75,07-13-2020,11,216199.0,55486.0,18708.0
+0-17,,,,,,,,,,,,,,362.15,33.06,0.75,07-14-2020,11,6254.0,571.0,13.0
+18-44,,,,,,,,,,,,,,2383.63,264.09,21.4,07-14-2020,11,80321.0,8899.0,721.0
+45-64,,,,,,,,,,,,,,3793.59,903.09,203.21,07-14-2020,11,77998.0,18568.0,4178.0
+65-74,,,,,,,,,,,,,,3771.75,1746.77,665.12,07-14-2020,11,26369.0,12212.0,4650.0
+75+,,,,,,,,,,,,,,4579.37,2790.44,1674.12,07-14-2020,11,25048.0,15263.0,9157.0
+Citywide,,,,,,,,,,,,,,2577.38,660.99,222.89,07-14-2020,11,216468.0,55515.0,18720.0
+0-17,,,,,,,,,,,,,,364.0,33.01,0.75,07-15-2020,12,6286.0,570.0,13.0
+18-44,,,,,,,,,,,,,,2389.75,264.18,21.43,07-15-2020,12,80527.0,8902.0,722.0
+45-64,,,,,,,,,,,,,,3797.43,903.48,203.45,07-15-2020,12,78077.0,18576.0,4183.0
+65-74,,,,,,,,,,,,,,3775.33,1746.63,665.98,07-15-2020,12,26394.0,12211.0,4656.0
+75+,,,,,,,,,,,,,,4583.57,2791.35,1674.48,07-15-2020,12,25071.0,15268.0,9159.0
+Citywide,,,,,,,,,,,,,,2581.74,661.16,223.06,07-15-2020,12,216834.0,55529.0,18734.0
+0-17,,,,,,,,,,,,,,366.14,33.12,0.75,07-16-2020,12,6323.0,572.0,13.0
+18-44,,,,,,,,,,,,,,2395.33,264.71,21.4,07-16-2020,12,80715.0,8920.0,721.0
+45-64,,,,,,,,,,,,,,3803.41,904.16,203.79,07-16-2020,12,78200.0,18590.0,4190.0
+65-74,,,,,,,,,,,,,,3778.19,1748.2,666.55,07-16-2020,12,26414.0,12222.0,4660.0
+75+,,,,,,,,,,,,,,4588.51,2794.09,1676.31,07-16-2020,12,25098.0,15283.0,9169.0
+Citywide,,,,,,,,,,,,,,2586.46,661.87,223.3,07-16-2020,12,217230.0,55589.0,18754.0
+0-17,,,,,,,,,,,,,,367.19,33.3,0.75,07-17-2020,12,6341.0,575.0,13.0
+18-44,,,,,,,,,,,,,,2400.49,265.31,21.13,07-17-2020,12,80889.0,8940.0,712.0
+45-64,,,,,,,,,,,,,,3808.37,904.99,203.93,07-17-2020,12,78302.0,18607.0,4193.0
+65-74,,,,,,,,,,,,,,3780.48,1748.92,666.84,07-17-2020,12,26430.0,12227.0,4662.0
+75+,,,,,,,,,,,,,,4592.9,2797.57,1677.77,07-17-2020,12,25122.0,15302.0,9177.0
+Citywide,,,,,,,,,,,,,,2590.41,662.63,223.34,07-17-2020,12,217562.0,55653.0,18758.0
+0-17,,,,,,,,,,,,,,368.69,33.35,0.75,07-18-2020,12,6367.0,576.0,13.0
+18-44,,,,,,,,,,,,,,2405.89,265.51,21.19,07-18-2020,12,81071.0,8947.0,714.0
+45-64,,,,,,,,,,,,,,3812.46,905.47,204.13,07-18-2020,12,78386.0,18617.0,4197.0
+65-74,,,,,,,,,,,,,,3783.05,1749.49,666.98,07-18-2020,12,26448.0,12231.0,4663.0
+75+,,,,,,,,,,,,,,4597.1,2799.58,1678.87,07-18-2020,12,25145.0,15313.0,9183.0
+Citywide,,,,,,,,,,,,,,2594.37,663.03,223.5,07-18-2020,12,217895.0,55686.0,18771.0
+0-17,,,,,,,,,,,,,,369.5,33.41,0.75,07-19-2020,12,6381.0,577.0,13.0
+18-44,,,,,,,,,,,,,,2410.31,265.72,21.19,07-19-2020,12,81220.0,8954.0,714.0
+45-64,,,,,,,,,,,,,,3815.48,905.82,204.23,07-19-2020,12,78448.0,18624.0,4199.0
+65-74,,,,,,,,,,,,,,3786.49,1750.06,667.27,07-19-2020,12,26472.0,12235.0,4665.0
+75+,,,,,,,,,,,,,,4599.84,2799.95,1679.05,07-19-2020,12,25160.0,15315.0,9184.0
+Citywide,,,,,,,,,,,,,,2597.52,663.28,223.56,07-19-2020,12,218159.0,55707.0,18776.0
+0-17,,,,,,,,,,,,,,370.49,33.53,0.75,07-20-2020,12,6398.0,579.0,13.0
+18-44,,,,,,,,,,,,,,2415.63,265.96,21.19,07-20-2020,12,81399.0,8962.0,714.0
+45-64,,,,,,,,,,,,,,3819.37,906.16,204.28,07-20-2020,12,78528.0,18631.0,4200.0
+65-74,,,,,,,,,,,,,,3789.92,1750.49,667.56,07-20-2020,12,26496.0,12238.0,4667.0
+75+,,,,,,,,,,,,,,4603.14,2801.22,1680.52,07-20-2020,12,25178.0,15322.0,9192.0
+Citywide,,,,,,,,,,,,,,2601.32,663.6,223.69,07-20-2020,12,218478.0,55734.0,18787.0
+0-17,,,,,,,,,,,,,,372.4,33.59,0.75,07-21-2020,12,6431.0,580.0,13.0
+18-44,,,,,,,,,,,,,,2424.65,266.43,21.1,07-21-2020,12,81703.0,8978.0,711.0
+45-64,,,,,,,,,,,,,,3827.49,907.32,204.96,07-21-2020,12,78695.0,18655.0,4214.0
+65-74,,,,,,,,,,,,,,3792.64,1750.78,666.41,07-21-2020,12,26515.0,12240.0,4659.0
+75+,,,,,,,,,,,,,,4607.52,2804.52,1682.34,07-21-2020,12,25202.0,15340.0,9202.0
+Citywide,,,,,,,,,,,,,,2607.89,664.33,223.84,07-21-2020,12,219030.0,55795.0,18800.0
+0-17,,,,,,,,,,,,,,372.8,33.59,0.75,07-22-2020,NA,6438.0,580.0,13.0
+18-44,,,,,,,,,,,,,,2426.28,266.46,21.13,07-22-2020,NA,81758.0,8979.0,712.0
+45-64,,,,,,,,,,,,,,3828.61,907.37,205.0,07-22-2020,NA,78718.0,18656.0,4215.0
+65-74,,,,,,,,,,,,,,3794.07,1750.78,666.41,07-22-2020,NA,26525.0,12240.0,4659.0
+75+,,,,,,,,,,,,,,4608.07,2804.52,1682.53,07-22-2020,NA,25205.0,15340.0,9203.0
+Citywide,,,,,,,,,,,,,,2609.06,664.35,223.88,07-22-2020,NA,219128.0,55797.0,18803.0
+0-17,,,,,,,,,,,,,,374.02,33.64,0.75,07-23-2020,NA,6459.0,581.0,13.0
+18-44,,,,,,,,,,,,,,2432.75,266.82,21.16,07-23-2020,NA,81976.0,8991.0,713.0
+45-64,,,,,,,,,,,,,,3832.69,907.71,205.44,07-23-2020,NA,78802.0,18663.0,4224.0
+65-74,,,,,,,,,,,,,,3797.36,1751.21,667.84,07-23-2020,NA,26548.0,12243.0,4669.0
+75+,,,,,,,,,,,,,,4611.0,2805.43,1685.45,07-23-2020,NA,25221.0,15345.0,9219.0
+Citywide,,,,,,,,,,,,,,2613.35,664.68,224.31,07-23-2020,NA,219489.0,55825.0,18839.0
+0-17,,,,,,,,,,,,,,375.47,33.76,0.75,07-24-2020,NA,6484.0,583.0,13.0
+18-44,,,,,,,,,,,,,,2435.27,267.53,21.16,07-24-2020,NA,82061.0,9015.0,713.0
+45-64,,,,,,,,,,,,,,3833.67,908.39,205.44,07-24-2020,NA,78822.0,18677.0,4224.0
+65-74,,,,,,,,,,,,,,3799.07,1752.92,667.27,07-24-2020,NA,26560.0,12255.0,4665.0
+75+,,,,,,,,,,,,,,4612.46,2808.36,1685.63,07-24-2020,NA,25229.0,15361.0,9220.0
+Citywide,,,,,,,,,,,,,,2615.16,665.49,224.27,07-24-2020,NA,219641.0,55893.0,18836.0
+0-17,,,,,,,,,,,,,,376.8,33.88,0.75,07-25-2020,NA,6507.0,585.0,13.0
+18-44,,,,,,,,,,,,,,2442.51,267.89,21.16,07-25-2020,NA,82305.0,9027.0,713.0
+45-64,,,,,,,,,,,,,,3842.76,909.07,205.54,07-25-2020,NA,79009.0,18691.0,4226.0
+65-74,,,,,,,,,,,,,,3806.65,1753.78,667.84,07-25-2020,NA,26613.0,12261.0,4669.0
+75+,,,,,,,,,,,,,,4616.66,2809.82,1686.91,07-25-2020,NA,25252.0,15369.0,9227.0
+Citywide,,,,,,,,,,,,,,2621.49,665.99,224.43,07-25-2020,NA,220172.0,55935.0,18849.0
+0-17,,,,,,,,,,,,,,377.38,33.93,0.75,07-26-2020,NA,6517.0,586.0,13.0
+18-44,,,,,,,,,,,,,,2443.76,268.6,21.13,07-26-2020,NA,82347.0,9051.0,712.0
+45-64,,,,,,,,,,,,,,3843.98,909.95,205.78,07-26-2020,NA,79034.0,18709.0,4231.0
+65-74,,,,,,,,,,,,,,3807.8,1755.35,668.41,07-26-2020,NA,26621.0,12272.0,4673.0
+75+,,,,,,,,,,,,,,4618.49,2812.19,1687.83,07-26-2020,NA,25262.0,15382.0,9232.0
+Citywide,,,,,,,,,,,,,,2622.61,666.79,224.58,07-26-2020,NA,220266.0,56002.0,18862.0
+0-17,,,,,,,,,,,,,,378.25,33.99,0.75,07-27-2020,NA,6532.0,587.0,13.0
+18-44,,,,,,,,,,,,,,2446.93,268.69,21.13,07-27-2020,NA,82454.0,9054.0,712.0
+45-64,,,,,,,,,,,,,,3846.99,910.05,205.93,07-27-2020,NA,79096.0,18711.0,4234.0
+65-74,,,,,,,,,,,,,,3810.66,1755.93,668.84,07-27-2020,NA,26641.0,12276.0,4676.0
+75+,,,,,,,,,,,,,,4620.87,2812.93,1688.56,07-27-2020,NA,25275.0,15386.0,9236.0
+Citywide,,,,,,,,,,,,,,2625.19,666.96,224.7,07-27-2020,NA,220483.0,56016.0,18872.0
+0-17,,,,,,,,,,,,,,380.1,33.99,0.75,07-28-2020,NA,6564.0,587.0,13.0
+18-44,,,,,,,,,,,,,,2453.46,268.84,21.13,07-28-2020,NA,82674.0,9059.0,712.0
+45-64,,,,,,,,,,,,,,3852.44,910.73,205.98,07-28-2020,NA,79208.0,18725.0,4235.0
+65-74,,,,,,,,,,,,,,3815.38,1756.21,669.13,07-28-2020,NA,26674.0,12278.0,4678.0
+75+,,,,,,,,,,,,,,4625.99,2813.47,1689.11,07-28-2020,NA,25303.0,15389.0,9239.0
+Citywide,,,,,,,,,,,,,,2630.24,667.24,224.77,07-28-2020,NA,220907.0,56040.0,18878.0
+0-17,,,,,,,,,,,,,,381.49,34.05,0.75,07-29-2020,NA,6588.0,588.0,13.0
+18-44,,,,,,,,,,,,,,2458.48,269.37,21.16,07-29-2020,NA,82843.0,9077.0,713.0
+45-64,,,,,,,,,,,,,,3856.52,911.36,206.07,07-29-2020,NA,79292.0,18738.0,4237.0
+65-74,,,,,,,,,,,,,,3818.67,1758.36,669.41,07-29-2020,NA,26697.0,12293.0,4680.0
+75+,,,,,,,,,,,,,,4628.37,2815.67,1689.84,07-29-2020,NA,25316.0,15401.0,9243.0
+Citywide,,,,,,,,,,,,,,2633.96,667.94,224.88,07-29-2020,NA,221220.0,56099.0,18887.0
+0-17,,,,,,,,,,,,,,382.65,34.16,0.75,07-30-2020,NA,6608.0,590.0,13.0
+18-44,,,,,,,,,,,,,,2463.58,269.79,21.28,07-30-2020,NA,83015.0,9091.0,717.0
+45-64,,,,,,,,,,,,,,3860.56,911.6,206.22,07-30-2020,NA,79375.0,18743.0,4240.0
+65-74,,,,,,,,,,,,,,3822.39,1759.5,669.41,07-30-2020,NA,26723.0,12301.0,4680.0
+75+,,,,,,,,,,,,,,4631.11,2816.4,1690.57,07-30-2020,NA,25331.0,15405.0,9247.0
+Citywide,,,,,,,,,,,,,,2637.7,668.34,225.01,07-30-2020,NA,221534.0,56132.0,18898.0
+0-17,,,,,,,,,,,,,,384.33,34.22,0.75,07-31-2020,NA,6637.0,591.0,13.0
+18-44,,,,,,,,,,,,,,2468.39,270.17,21.28,07-31-2020,NA,83177.0,9104.0,717.0
+45-64,,,,,,,,,,,,,,3863.43,911.99,206.27,07-31-2020,NA,79434.0,18751.0,4241.0
+65-74,,,,,,,,,,,,,,3824.68,1760.36,669.99,07-31-2020,NA,26739.0,12307.0,4684.0
+75+,,,,,,,,,,,,,,4634.95,2817.86,1691.12,07-31-2020,NA,25352.0,15413.0,9250.0
+Citywide,,,,,,,,,,,,,,2641.13,668.77,225.1,07-31-2020,NA,221822.0,56168.0,18906.0
+0-17,,,,,,,,,,,,,,385.54,34.57,0.75,08-01-2020,NA,6658.0,597.0,13.0
+18-44,,,,,,,,,,,,,,2472.9,271.89,21.28,08-01-2020,NA,83329.0,9162.0,717.0
+45-64,,,,,,,,,,,,,,3867.52,913.74,206.27,08-01-2020,NA,79518.0,18787.0,4241.0
+65-74,,,,,,,,,,,,,,3828.25,1764.65,669.99,08-01-2020,NA,26764.0,12337.0,4684.0
+75+,,,,,,,,,,,,,,4637.51,2823.35,1691.85,08-01-2020,NA,25366.0,15443.0,9254.0
+Citywide,,,,,,,,,,,,,,2644.81,670.67,225.15,08-01-2020,NA,222131.0,56328.0,18910.0
+0-17,,,,,,,,,,,,,,386.24,34.57,0.75,08-02-2020,NA,6670.0,597.0,13.0
+18-44,,,,,,,,,,,,,,2476.46,271.95,21.28,08-02-2020,NA,83449.0,9164.0,717.0
+45-64,,,,,,,,,,,,,,3870.05,913.69,206.27,08-02-2020,NA,79570.0,18786.0,4241.0
+65-74,,,,,,,,,,,,,,3830.97,1764.8,670.27,08-02-2020,NA,26783.0,12338.0,4686.0
+75+,,,,,,,,,,,,,,4638.97,2824.08,1692.4,08-02-2020,NA,25374.0,15447.0,9257.0
+Citywide,,,,,,,,,,,,,,2647.18,670.74,225.21,08-02-2020,NA,222330.0,56334.0,18915.0
+0-17,,,,,,,,,,,,,,386.99,34.63,0.75,08-03-2020,NA,6683.0,598.0,13.0
+18-44,,,,,,,,,,,,,,2479.79,272.16,21.34,08-03-2020,NA,83561.0,9171.0,719.0
+45-64,,,,,,,,,,,,,,3872.48,914.18,206.37,08-03-2020,NA,79620.0,18796.0,4243.0
+65-74,,,,,,,,,,,,,,3833.12,1765.65,670.7,08-03-2020,NA,26798.0,12344.0,4689.0
+75+,,,,,,,,,,,,,,4639.33,2825.36,1693.31,08-03-2020,NA,25376.0,15454.0,9262.0
+Citywide,,,,,,,,,,,,,,2649.47,671.11,225.36,08-03-2020,NA,222522.0,56365.0,18927.0
+0-17,,,,,,,,,,,,,,388.09,34.63,0.75,08-04-2020,NA,6702.0,598.0,13.0
+18-44,,,,,,,,,,,,,,2484.83,272.31,21.37,08-04-2020,NA,83731.0,9176.0,720.0
+45-64,,,,,,,,,,,,,,3876.56,914.28,206.46,08-04-2020,NA,79704.0,18798.0,4245.0
+65-74,,,,,,,,,,,,,,3836.41,1766.51,670.85,08-04-2020,NA,26821.0,12350.0,4690.0
+75+,,,,,,,,,,,,,,4643.36,2826.27,1693.68,08-04-2020,NA,25398.0,15459.0,9264.0
+Citywide,,,,,,,,,,,,,,2653.25,671.33,225.43,08-04-2020,NA,222840.0,56383.0,18933.0
+0-17,,,,,,,,,,,,,,390.52,34.74,0.75,08-05-2020,NA,6744.0,600.0,13.0
+18-44,,,,,,,,,,,,,,2490.59,272.46,21.37,08-05-2020,NA,83925.0,9181.0,720.0
+45-64,,,,,,,,,,,,,,3880.26,914.72,206.46,08-05-2020,NA,79780.0,18807.0,4245.0
+65-74,,,,,,,,,,,,,,3839.41,1767.51,670.99,08-05-2020,NA,26842.0,12357.0,4691.0
+75+,,,,,,,,,,,,,,4645.92,2827.73,1694.23,08-05-2020,NA,25412.0,15467.0,9267.0
+Citywide,,,,,,,,,,,,,,2657.37,671.7,225.47,08-05-2020,NA,223186.0,56414.0,18937.0
+0-17,,,,,,,,,,,,,,391.97,34.8,0.69,08-06-2020,NA,6769.0,601.0,12.0
+18-44,,,,,,,,,,,,,,2495.16,272.64,21.37,08-06-2020,NA,84079.0,9187.0,720.0
+45-64,,,,,,,,,,,,,,3884.0,914.91,206.51,08-06-2020,NA,79857.0,18811.0,4246.0
+65-74,,,,,,,,,,,,,,3842.13,1768.08,671.13,08-06-2020,NA,26861.0,12361.0,4692.0
+75+,,,,,,,,,,,,,,4649.39,2828.47,1694.23,08-06-2020,NA,25431.0,15471.0,9267.0
+Citywide,,,,,,,,,,,,,,2660.79,671.92,225.49,08-06-2020,NA,223473.0,56433.0,18938.0
+0-17,,,,,,,,,,,,,,393.94,34.86,0.75,08-07-2020,NA,6803.0,602.0,13.0
+18-44,,,,,,,,,,,,,,2501.66,272.61,21.37,08-07-2020,NA,84298.0,9186.0,720.0
+45-64,,,,,,,,,,,,,,3889.26,915.25,206.61,08-07-2020,NA,79965.0,18818.0,4248.0
+65-74,,,,,,,,,,,,,,3845.42,1768.08,671.27,08-07-2020,NA,26884.0,12361.0,4693.0
+75+,,,,,,,,,,,,,,4653.05,2829.75,1694.59,08-07-2020,NA,25451.0,15478.0,9269.0
+Citywide,,,,,,,,,,,,,,2665.59,672.09,225.56,08-07-2020,NA,223876.0,56447.0,18944.0
+0-17,,,,,,,,,,,,,,394.86,34.98,0.75,08-08-2020,NA,6819.0,604.0,13.0
+18-44,,,,,,,,,,,,,,2505.43,273.11,21.37,08-08-2020,NA,84425.0,9203.0,720.0
+45-64,,,,,,,,,,,,,,3892.76,916.22,206.76,08-08-2020,NA,80037.0,18838.0,4251.0
+65-74,,,,,,,,,,,,,,3846.13,1769.37,671.27,08-08-2020,NA,26889.0,12370.0,4693.0
+75+,,,,,,,,,,,,,,4655.97,2833.58,1694.96,08-08-2020,NA,25467.0,15499.0,9271.0
+Citywide,,,,,,,,,,,,,,2668.46,672.91,225.62,08-08-2020,NA,224117.0,56516.0,18949.0
+0-17,,,,,,,,,,,,,,396.95,35.15,0.75,08-09-2020,NA,6855.0,607.0,13.0
+18-44,,,,,,,,,,,,,,2510.09,273.29,21.4,08-09-2020,NA,84582.0,9209.0,721.0
+45-64,,,,,,,,,,,,,,3896.75,916.95,206.9,08-09-2020,NA,80119.0,18853.0,4254.0
+65-74,,,,,,,,,,,,,,3850.28,1770.09,671.27,08-09-2020,NA,26918.0,12375.0,4693.0
+75+,,,,,,,,,,,,,,4658.53,2835.05,1695.51,08-09-2020,NA,25481.0,15507.0,9274.0
+Citywide,,,,,,,,,,,,,,2672.28,673.35,225.7,08-09-2020,NA,224438.0,56553.0,18956.0
+0-17,,,,,,,,,,,,,,398.45,35.15,0.75,08-10-2020,NA,6881.0,607.0,13.0
+18-44,,,,,,,,,,,,,,2513.56,273.53,21.43,08-10-2020,NA,84699.0,9217.0,722.0
+45-64,,,,,,,,,,,,,,3900.15,917.54,206.95,08-10-2020,NA,80189.0,18865.0,4255.0
+65-74,,,,,,,,,,,,,,3853.14,1770.52,671.42,08-10-2020,NA,26938.0,12378.0,4694.0
+75+,,,,,,,,,,,,,,4661.09,2835.96,1695.69,08-10-2020,NA,25495.0,15512.0,9275.0
+Citywide,,,,,,,,,,,,,,2675.21,673.68,225.75,08-10-2020,NA,224684.0,56581.0,18960.0
+0-17,,,,,,,,,,,,,,399.79,35.21,0.75,08-11-2020,NA,6904.0,608.0,13.0
+18-44,,,,,,,,,,,,,,2517.03,273.59,21.43,08-11-2020,NA,84816.0,9219.0,722.0
+45-64,,,,,,,,,,,,,,3903.02,917.83,206.95,08-11-2020,NA,80248.0,18871.0,4255.0
+65-74,,,,,,,,,,,,,,3855.86,1771.09,671.56,08-11-2020,NA,26957.0,12382.0,4695.0
+75+,,,,,,,,,,,,,,4664.38,2836.88,1696.6,08-11-2020,NA,25513.0,15517.0,9280.0
+Citywide,,,,,,,,,,,,,,2678.02,673.9,225.82,08-11-2020,NA,224920.0,56599.0,18966.0
+0-17,,,,,,,,,,,,,,401.18,35.21,0.75,08-12-2020,NA,6928.0,608.0,13.0
+18-44,,,,,,,,,,,,,,2522.88,273.76,21.43,08-12-2020,NA,85013.0,9225.0,722.0
+45-64,,,,,,,,,,,,,,3907.84,918.02,206.95,08-12-2020,NA,80347.0,18875.0,4255.0
+65-74,,,,,,,,,,,,,,3859.86,1771.52,671.85,08-12-2020,NA,26985.0,12385.0,4697.0
+75+,,,,,,,,,,,,,,4667.31,2837.97,1696.97,08-12-2020,NA,25529.0,15523.0,9282.0
+Citywide,,,,,,,,,,,,,,2682.35,674.12,225.87,08-12-2020,NA,225284.0,56618.0,18970.0
+0-17,,,,,,,,,,,,,,404.07,35.38,0.75,08-13-2020,NA,6978.0,611.0,13.0
+18-44,,,,,,,,,,,,,,2529.17,274.39,21.43,08-13-2020,NA,85225.0,9246.0,722.0
+45-64,,,,,,,,,,,,,,3913.58,918.51,207.0,08-13-2020,NA,80465.0,18885.0,4256.0
+65-74,,,,,,,,,,,,,,3865.3,1772.81,672.13,08-13-2020,NA,27023.0,12394.0,4699.0
+75+,,,,,,,,,,,,,,4669.32,2839.62,1698.07,08-13-2020,NA,25540.0,15532.0,9288.0
+Citywide,,,,,,,,,,,,,,2687.46,674.74,225.97,08-13-2020,NA,225713.0,56670.0,18979.0
+0-17,,,,,,,,,,,,,,405.69,35.32,0.69,08-14-2020,NA,7006.0,610.0,12.0
+18-44,,,,,,,,,,,,,,2533.89,274.57,21.46,08-14-2020,NA,85384.0,9252.0,723.0
+45-64,,,,,,,,,,,,,,3917.86,919.0,207.19,08-14-2020,NA,80553.0,18895.0,4260.0
+65-74,,,,,,,,,,,,,,3869.88,1772.95,672.42,08-14-2020,NA,27055.0,12395.0,4701.0
+75+,,,,,,,,,,,,,,4673.16,2840.35,1698.43,08-14-2020,NA,25561.0,15536.0,9290.0
+Citywide,,,,,,,,,,,,,,2691.39,674.98,226.07,08-14-2020,NA,226043.0,56690.0,18987.0
+0-17,,,,,,,,,,,,,,408.53,35.55,0.69,08-15-2020,NA,7055.0,614.0,12.0
+18-44,,,,,,,,,,,,,,2538.43,274.74,21.46,08-15-2020,NA,85537.0,9258.0,723.0
+45-64,,,,,,,,,,,,,,3921.6,919.63,207.24,08-15-2020,NA,80630.0,18908.0,4261.0
+65-74,,,,,,,,,,,,,,3874.02,1773.81,672.42,08-15-2020,NA,27084.0,12401.0,4701.0
+75+,,,,,,,,,,,,,,4676.08,2841.08,1698.62,08-15-2020,NA,25577.0,15540.0,9291.0
+Citywide,,,,,,,,,,,,,,2695.25,675.37,226.09,08-15-2020,NA,226367.0,56723.0,18989.0
+0-17,,,,,,,,,,,,,,410.38,35.55,0.69,08-16-2020,NA,7087.0,614.0,12.0
+18-44,,,,,,,,,,,,,,2543.59,275.01,21.49,08-16-2020,NA,85711.0,9267.0,724.0
+45-64,,,,,,,,,,,,,,3927.68,920.26,207.24,08-16-2020,NA,80755.0,18921.0,4261.0
+65-74,,,,,,,,,,,,,,3880.6,1775.09,672.56,08-16-2020,NA,27130.0,12410.0,4702.0
+75+,,,,,,,,,,,,,,4679.19,2842.73,1699.16,08-16-2020,NA,25594.0,15549.0,9294.0
+Citywide,,,,,,,,,,,,,,2699.88,675.85,226.15,08-16-2020,NA,226756.0,56763.0,18994.0
+0-17,,,,,,,,,,,,,,411.6,35.55,0.69,08-17-2020,NA,7108.0,614.0,12.0
+18-44,,,,,,,,,,,,,,2547.0,275.01,21.52,08-17-2020,NA,85826.0,9267.0,725.0
+45-64,,,,,,,,,,,,,,3930.45,920.31,207.34,08-17-2020,NA,80812.0,18922.0,4263.0
+65-74,,,,,,,,,,,,,,3882.89,1775.38,672.56,08-17-2020,NA,27146.0,12412.0,4702.0
+75+,,,,,,,,,,,,,,4681.2,2842.73,1699.35,08-17-2020,NA,25605.0,15549.0,9295.0
+Citywide,,,,,,,,,,,,,,2702.51,675.89,226.2,08-17-2020,NA,226977.0,56766.0,18998.0
+0-17,,,,,,,,,,,,,,413.11,35.61,0.69,08-18-2020,13,7134.0,615.0,12.0
+18-44,,,,,,,,,,,,,,2549.67,275.13,21.52,08-18-2020,13,85916.0,9271.0,725.0
+45-64,,,,,,,,,,,,,,3932.4,920.99,207.34,08-18-2020,13,80852.0,18936.0,4263.0
+65-74,,,,,,,,,,,,,,3885.9,1776.38,672.42,08-18-2020,13,27167.0,12419.0,4701.0
+75+,,,,,,,,,,,,,,4682.3,2844.19,1699.71,08-18-2020,13,25611.0,15557.0,9297.0
+Citywide,,,,,,,,,,,,,,2704.67,676.29,226.21,08-18-2020,13,227158.0,56800.0,18999.0
+0-17,,,,,,,,,,,,,,414.73,35.79,0.69,08-19-2020,13,7162.0,618.0,12.0
+18-44,,,,,,,,,,,,,,2553.38,275.46,21.55,08-19-2020,13,86041.0,9282.0,726.0
+45-64,,,,,,,,,,,,,,3936.39,921.23,207.34,08-19-2020,13,80934.0,18941.0,4263.0
+65-74,,,,,,,,,,,,,,3888.9,1777.38,672.85,08-19-2020,13,27188.0,12426.0,4704.0
+75+,,,,,,,,,,,,,,4683.4,2845.1,1700.08,08-19-2020,13,25617.0,15562.0,9299.0
+Citywide,,,,,,,,,,,,,,2707.77,676.66,226.28,08-19-2020,13,227419.0,56831.0,19005.0
+0-17,,,,,,,,,,,,,,417.56,35.96,0.69,08-20-2020,13,7211.0,621.0,12.0
+18-44,,,,,,,,,,,,,,2557.86,275.63,21.55,08-20-2020,13,86192.0,9288.0,726.0
+45-64,,,,,,,,,,,,,,3939.94,921.53,207.24,08-20-2020,13,81007.0,18947.0,4261.0
+65-74,,,,,,,,,,,,,,3890.47,1777.81,673.13,08-20-2020,13,27199.0,12429.0,4706.0
+75+,,,,,,,,,,,,,,4687.23,2844.55,1699.71,08-20-2020,13,25638.0,15559.0,9297.0
+Citywide,,,,,,,,,,,,,,2711.4,676.84,226.26,08-20-2020,13,227724.0,56846.0,19003.0
+0-17,,,,,,,,,,,,,,418.49,36.02,0.69,08-21-2020,13,7227.0,622.0,12.0
+18-44,,,,,,,,,,,,,,2561.37,275.72,21.55,08-21-2020,13,86310.0,9291.0,726.0
+45-64,,,,,,,,,,,,,,3942.76,921.82,207.39,08-21-2020,13,81065.0,18953.0,4264.0
+65-74,,,,,,,,,,,,,,3892.05,1778.24,673.28,08-21-2020,13,27210.0,12432.0,4707.0
+75+,,,,,,,,,,,,,,4687.78,2845.1,1699.71,08-21-2020,13,25641.0,15562.0,9297.0
+Citywide,,,,,,,,,,,,,,2713.82,677.03,226.31,08-21-2020,13,227927.0,56862.0,19007.0
+0-17,,,,,,,,,,,,,,419.94,36.08,0.69,08-22-2020,13,7252.0,623.0,12.0
+18-44,,,,,,,,,,,,,,2564.42,275.9,21.6,08-22-2020,13,86413.0,9297.0,728.0
+45-64,,,,,,,,,,,,,,3945.68,922.06,207.58,08-22-2020,13,81125.0,18958.0,4268.0
+65-74,,,,,,,,,,,,,,3893.62,1778.53,673.28,08-22-2020,13,27221.0,12434.0,4707.0
+75+,,,,,,,,,,,,,,4689.98,2846.2,1699.89,08-22-2020,13,25653.0,15568.0,9298.0
+Citywide,,,,,,,,,,,,,,2716.4,677.27,226.39,08-22-2020,13,228144.0,56882.0,19014.0
+0-17,,,,,,,,,,,,,,421.85,36.19,0.69,08-23-2020,13,7285.0,625.0,12.0
+18-44,,,,,,,,,,,,,,2569.05,276.17,21.57,08-23-2020,13,86569.0,9306.0,727.0
+45-64,,,,,,,,,,,,,,3949.13,922.79,207.78,08-23-2020,13,81196.0,18973.0,4272.0
+65-74,,,,,,,,,,,,,,3895.62,1778.67,673.28,08-23-2020,13,27235.0,12435.0,4707.0
+75+,,,,,,,,,,,,,,4692.35,2848.58,1699.89,08-23-2020,13,25666.0,15581.0,9298.0
+Citywide,,,,,,,,,,,,,,2719.79,677.74,226.43,08-23-2020,13,228428.0,56922.0,19017.0
+0-17,,,,,,,,,,,,,,423.53,36.19,0.69,08-24-2020,13,7314.0,625.0,12.0
+18-44,,,,,,,,,,,,,,2572.05,276.58,21.63,08-24-2020,13,86670.0,9320.0,729.0
+45-64,,,,,,,,,,,,,,3951.08,923.32,207.78,08-24-2020,13,81236.0,18984.0,4272.0
+65-74,,,,,,,,,,,,,,3897.77,1779.1,673.42,08-24-2020,13,27250.0,12438.0,4708.0
+75+,,,,,,,,,,,,,,4693.08,2849.49,1700.81,08-24-2020,13,25670.0,15586.0,9303.0
+Citywide,,,,,,,,,,,,,,2722.04,678.14,226.52,08-24-2020,13,228617.0,56955.0,19025.0
+0-17,,,,,,,,,,,,,,424.51,36.19,0.69,08-25-2020,13,7331.0,625.0,12.0
+18-44,,,,,,,,,,,,,,2574.36,276.73,21.66,08-25-2020,13,86748.0,9325.0,730.0
+45-64,,,,,,,,,,,,,,3953.36,923.37,207.78,08-25-2020,13,81283.0,18985.0,4272.0
+65-74,,,,,,,,,,,,,,3899.91,1779.24,673.56,08-25-2020,13,27265.0,12439.0,4709.0
+75+,,,,,,,,,,,,,,4694.91,2850.4,1701.17,08-25-2020,13,25680.0,15591.0,9305.0
+Citywide,,,,,,,,,,,,,,2724.07,678.28,226.57,08-25-2020,13,228788.0,56967.0,19029.0
+0-17,,,,,,,,,,,,,,425.44,36.25,0.69,08-26-2020,13,7347.0,626.0,12.0
+18-44,,,,,,,,,,,,,,2577.27,276.79,21.63,08-26-2020,13,86846.0,9327.0,729.0
+45-64,,,,,,,,,,,,,,3955.55,923.52,207.58,08-26-2020,13,81328.0,18988.0,4268.0
+65-74,,,,,,,,,,,,,,3901.63,1779.53,673.71,08-26-2020,13,27277.0,12441.0,4710.0
+75+,,,,,,,,,,,,,,4697.29,2851.5,1702.09,08-26-2020,13,25693.0,15597.0,9310.0
+Citywide,,,,,,,,,,,,,,2726.25,678.46,226.58,08-26-2020,13,228971.0,56982.0,19030.0
+0-17,,,,,,,,,,,,,,426.89,36.25,0.69,08-27-2020,13,7372.0,626.0,12.0
+18-44,,,,,,,,,,,,,,2580.54,276.97,21.63,08-27-2020,13,86956.0,9333.0,729.0
+45-64,,,,,,,,,,,,,,3959.15,923.81,207.63,08-27-2020,13,81402.0,18994.0,4269.0
+65-74,,,,,,,,,,,,,,3904.78,1779.67,674.28,08-27-2020,13,27299.0,12442.0,4714.0
+75+,,,,,,,,,,,,,,4698.57,2852.96,1702.45,08-27-2020,13,25700.0,15605.0,9312.0
+Citywide,,,,,,,,,,,,,,2729.06,678.71,226.66,08-27-2020,13,229207.0,57003.0,19037.0
+0-17,,,,,,,,,,,,,,428.91,36.25,0.69,08-28-2020,13,7407.0,626.0,12.0
+18-44,,,,,,,,,,,,,,2585.37,277.15,21.63,08-28-2020,13,87119.0,9339.0,729.0
+45-64,,,,,,,,,,,,,,3962.55,924.25,207.68,08-28-2020,13,81472.0,19003.0,4270.0
+65-74,,,,,,,,,,,,,,3908.21,1780.82,674.71,08-28-2020,13,27323.0,12450.0,4717.0
+75+,,,,,,,,,,,,,,4701.86,2853.7,1703.0,08-28-2020,13,25718.0,15609.0,9315.0
+Citywide,,,,,,,,,,,,,,2732.76,679.03,226.75,08-28-2020,13,229518.0,57030.0,19044.0
+0-17,,,,,,,,,,,,,,431.0,36.31,0.69,08-29-2020,13,7443.0,627.0,12.0
+18-44,,,,,,,,,,,,,,2588.91,277.33,21.63,08-29-2020,13,87238.0,9345.0,729.0
+45-64,,,,,,,,,,,,,,3965.28,924.44,207.78,08-29-2020,13,81528.0,19007.0,4272.0
+65-74,,,,,,,,,,,,,,3909.93,1781.39,674.85,08-29-2020,13,27335.0,12454.0,4718.0
+75+,,,,,,,,,,,,,,4704.05,2855.16,1703.0,08-29-2020,13,25730.0,15617.0,9315.0
+Citywide,,,,,,,,,,,,,,2735.54,679.3,226.78,08-29-2020,13,229751.0,57053.0,19047.0
+0-17,,,,,,,,,,,,,,432.1,36.48,0.69,08-30-2020,13,7462.0,630.0,12.0
+18-44,,,,,,,,,,,,,,2592.65,277.98,21.63,08-30-2020,13,87364.0,9367.0,729.0
+45-64,,,,,,,,,,,,,,3968.44,924.88,207.73,08-30-2020,13,81593.0,19016.0,4271.0
+65-74,,,,,,,,,,,,,,3912.64,1782.1,674.71,08-30-2020,13,27354.0,12459.0,4717.0
+75+,,,,,,,,,,,,,,4704.24,2855.52,1702.45,08-30-2020,13,25731.0,15619.0,9312.0
+Citywide,,,,,,,,,,,,,,2738.27,679.78,226.72,08-30-2020,13,229980.0,57093.0,19042.0
+0-17,,,,,,,,,,,,,,433.31,36.48,0.69,08-31-2020,13,7483.0,630.0,12.0
+18-44,,,,,,,,,,,,,,2595.97,278.19,21.72,08-31-2020,13,87476.0,9374.0,732.0
+45-64,,,,,,,,,,,,,,3970.92,925.17,207.83,08-31-2020,13,81644.0,19022.0,4273.0
+65-74,,,,,,,,,,,,,,3915.22,1782.96,675.14,08-31-2020,13,27372.0,12465.0,4720.0
+75+,,,,,,,,,,,,,,4707.89,2856.99,1703.37,08-31-2020,13,25751.0,15627.0,9317.0
+Citywide,,,,,,,,,,,,,,2740.94,680.1,226.88,08-31-2020,13,230205.0,57120.0,19055.0
+0-17,,,,,,,,,,,,,,435.11,36.48,0.69,09-01-2020,14,7514.0,630.0,12.0
+18-44,,,,,,,,,,,,,,2600.15,278.22,21.78,09-01-2020,14,87617.0,9375.0,734.0
+45-64,,,,,,,,,,,,,,3975.25,925.51,207.83,09-01-2020,14,81733.0,19029.0,4273.0
+65-74,,,,,,,,,,,,,,3917.79,1783.39,675.28,09-01-2020,14,27390.0,12468.0,4721.0
+75+,,,,,,,,,,,,,,4710.27,2857.9,1703.73,09-01-2020,14,25764.0,15632.0,9319.0
+Citywide,,,,,,,,,,,,,,2744.41,680.29,226.94,09-01-2020,14,230496.0,57136.0,19060.0
+0-17,,,,,,,,,,,,,,437.19,36.48,0.69,09-02-2020,14,7550.0,630.0,12.0
+18-44,,,,,,,,,,,,,,2603.86,278.36,21.78,09-02-2020,14,87742.0,9380.0,734.0
+45-64,,,,,,,,,,,,,,3977.97,926.0,207.83,09-02-2020,14,81789.0,19039.0,4273.0
+65-74,,,,,,,,,,,,,,3919.51,1783.96,675.57,09-02-2020,14,27402.0,12472.0,4723.0
+75+,,,,,,,,,,,,,,4713.38,2859.55,1703.92,09-02-2020,14,25781.0,15641.0,9320.0
+Citywide,,,,,,,,,,,,,,2747.36,680.63,226.97,09-02-2020,14,230744.0,57164.0,19063.0
+0-17,,,,,,,,,,,,,,439.51,36.48,0.69,09-03-2020,14,7590.0,630.0,12.0
+18-44,,,,,,,,,,,,,,2609.26,278.51,21.72,09-03-2020,14,87924.0,9385.0,732.0
+45-64,,,,,,,,,,,,,,3981.57,926.29,207.87,09-03-2020,14,81863.0,19045.0,4274.0
+65-74,,,,,,,,,,,,,,3922.23,1784.39,675.42,09-03-2020,14,27421.0,12475.0,4722.0
+75+,,,,,,,,,,,,,,4715.75,2861.56,1704.83,09-03-2020,14,25794.0,15652.0,9325.0
+Citywide,,,,,,,,,,,,,,2751.22,680.92,227.01,09-03-2020,14,231068.0,57189.0,19066.0
+0-17,,,,,,,,,,,,,,440.9,36.54,0.69,09-04-2020,14,7614.0,631.0,12.0
+18-44,,,,,,,,,,,,,,2612.29,278.75,21.78,09-04-2020,14,88026.0,9393.0,734.0
+45-64,,,,,,,,,,,,,,3984.63,926.53,207.87,09-04-2020,14,81926.0,19050.0,4274.0
+65-74,,,,,,,,,,,,,,3925.09,1785.39,675.71,09-04-2020,14,27441.0,12482.0,4724.0
+75+,,,,,,,,,,,,,,4717.77,2863.38,1705.38,09-04-2020,14,25805.0,15662.0,9328.0
+Citywide,,,,,,,,,,,,,,2753.86,681.29,227.09,09-04-2020,14,231290.0,57220.0,19073.0
+0-17,,,,,,,,,,,,,,442.23,36.54,0.69,09-05-2020,14,7637.0,631.0,12.0
+18-44,,,,,,,,,,,,,,2616.89,279.02,21.81,09-05-2020,14,88181.0,9402.0,735.0
+45-64,,,,,,,,,,,,,,3988.82,926.78,208.02,09-05-2020,14,82012.0,19055.0,4277.0
+65-74,,,,,,,,,,,,,,3928.24,1785.96,675.85,09-05-2020,14,27463.0,12486.0,4725.0
+75+,,,,,,,,,,,,,,4720.87,2863.93,1705.75,09-05-2020,14,25822.0,15665.0,9330.0
+Citywide,,,,,,,,,,,,,,2757.48,681.54,227.18,09-05-2020,14,231594.0,57241.0,19080.0
+0-17,,,,,,,,,,,,,,444.26,36.54,0.69,09-07-2020,14,7672.0,631.0,12.0
+18-44,,,,,,,,,,,,,,2620.51,279.46,21.9,09-07-2020,14,88303.0,9417.0,738.0
+45-64,,,,,,,,,,,,,,3990.76,927.31,208.07,09-07-2020,14,82052.0,19066.0,4278.0
+65-74,,,,,,,,,,,,,,3930.52,1786.97,676.42,09-07-2020,14,27479.0,12493.0,4729.0
+75+,,,,,,,,,,,,,,4723.98,2865.03,1706.11,09-07-2020,14,25839.0,15671.0,9332.0
+Citywide,,,,,,,,,,,,,,2760.22,682.01,227.3,09-07-2020,14,231824.0,57280.0,19090.0
+0-17,,,,,,,,,,,,,,444.14,36.54,0.69,09-08-2020,14,7670.0,631.0,12.0
+18-44,,,,,,,,,,,,,,2623.92,279.55,21.9,09-08-2020,14,88418.0,9420.0,738.0
+45-64,,,,,,,,,,,,,,3994.26,927.6,208.12,09-08-2020,14,82124.0,19072.0,4279.0
+65-74,,,,,,,,,,,,,,3932.24,1787.25,676.42,09-08-2020,14,27491.0,12495.0,4729.0
+75+,,,,,,,,,,,,,,4725.44,2865.94,1707.39,09-08-2020,14,25847.0,15676.0,9339.0
+Citywide,,,,,,,,,,,,,,2762.75,682.2,227.39,09-08-2020,14,232036.0,57296.0,19098.0
+0-17,,,,,,,,,,,,,,445.59,36.6,0.69,09-09-2020,14,7695.0,632.0,12.0
+18-44,,,,,,,,,,,,,,2626.8,279.73,21.87,09-09-2020,14,88515.0,9426.0,737.0
+45-64,,,,,,,,,,,,,,3996.55,928.09,208.07,09-09-2020,14,82171.0,19082.0,4278.0
+65-74,,,,,,,,,,,,,,3934.24,1787.25,676.28,09-09-2020,14,27505.0,12495.0,4728.0
+75+,,,,,,,,,,,,,,4727.82,2867.41,1707.94,09-09-2020,14,25860.0,15684.0,9342.0
+Citywide,,,,,,,,,,,,,,2765.08,682.49,227.39,09-09-2020,14,232232.0,57321.0,19098.0
+0-17,,,,,,,,,,,,,,448.78,36.71,0.69,09-10-2020,14,7750.0,634.0,12.0
+18-44,,,,,,,,,,,,,,2633.87,279.88,21.9,09-10-2020,14,88753.0,9431.0,738.0
+45-64,,,,,,,,,,,,,,4002.68,928.58,208.02,09-10-2020,14,82297.0,19092.0,4277.0
+65-74,,,,,,,,,,,,,,3940.68,1787.97,676.28,09-10-2020,14,27550.0,12500.0,4728.0
+75+,,,,,,,,,,,,,,4730.38,2868.32,1708.12,09-10-2020,14,25874.0,15689.0,9343.0
+Citywide,,,,,,,,,,,,,,2770.77,682.82,227.4,09-10-2020,14,232710.0,57348.0,19099.0
+0-17,,,,,,,,,,,,,,450.45,36.77,0.69,09-11-2020,14,7779.0,635.0,12.0
+18-44,,,,,,,,,,,,,,2637.31,280.06,21.93,09-11-2020,14,88869.0,9437.0,739.0
+45-64,,,,,,,,,,,,,,4005.21,929.26,208.17,09-11-2020,14,82349.0,19106.0,4280.0
+65-74,,,,,,,,,,,,,,3942.83,1789.68,677.28,09-11-2020,14,27565.0,12512.0,4735.0
+75+,,,,,,,,,,,,,,4731.11,2870.7,1709.22,09-11-2020,14,25878.0,15702.0,9349.0
+Citywide,,,,,,,,,,,,,,2773.34,683.36,227.61,09-11-2020,14,232926.0,57394.0,19116.0
+0-17,,,,,,,,,,,,,,451.9,36.77,0.69,09-12-2020,14,7804.0,635.0,12.0
+18-44,,,,,,,,,,,,,,2642.15,280.23,21.93,09-12-2020,14,89032.0,9443.0,739.0
+45-64,,,,,,,,,,,,,,4008.86,929.6,208.12,09-12-2020,14,82424.0,19113.0,4279.0
+65-74,,,,,,,,,,,,,,3945.4,1790.4,677.14,09-12-2020,14,27583.0,12517.0,4734.0
+75+,,,,,,,,,,,,,,4732.76,2871.61,1710.32,09-12-2020,14,25887.0,15707.0,9355.0
+Citywide,,,,,,,,,,,,,,2776.79,683.64,227.65,09-12-2020,14,233216.0,57417.0,19120.0
+0-17,,,,,,,,,,,,,,453.47,36.77,0.69,09-14-2020,14,7831.0,635.0,12.0
+18-44,,,,,,,,,,,,,,2649.15,280.26,21.96,09-14-2020,14,89268.0,9444.0,740.0
+45-64,,,,,,,,,,,,,,4014.01,929.74,208.17,09-14-2020,14,82530.0,19116.0,4280.0
+65-74,,,,,,,,,,,,,,3949.98,1790.83,677.42,09-14-2020,14,27615.0,12520.0,4736.0
+75+,,,,,,,,,,,,,,4735.87,2871.79,1710.32,09-14-2020,14,25904.0,15708.0,9355.0
+Citywide,,,,,,,,,,,,,,2781.8,683.73,227.7,09-14-2020,14,233636.0,57425.0,19124.0
